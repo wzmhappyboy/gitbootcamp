@@ -1,0 +1,159 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/node/app/logs/.2535f37995682b11759f8746185fd7448f89ef99-audit.json",
+    "files": [
+        {
+            "date": 1608031438634,
+            "name": "/home/node/app/logs/audit.log.2020-12-15",
+            "hash": "be9351eaccb10a2e56bd1de5dfa75f93"
+        },
+        {
+            "date": 1608135295267,
+            "name": "/home/node/app/logs/audit.log.2020-12-16",
+            "hash": "b5ba974bdd37265ac9db09701105554c"
+        },
+        {
+            "date": 1608289844802,
+            "name": "/home/node/app/logs/audit.log.2020-12-18",
+            "hash": "d47bb642054bfe5a36bbca7156ddab6b"
+        },
+        {
+            "date": 1608545111525,
+            "name": "/home/node/app/logs/audit.log.2020-12-21",
+            "hash": "809f9f6e9fa15c00d60a29618cf3cc99"
+        },
+        {
+            "date": 1608632205467,
+            "name": "/home/node/app/logs/audit.log.2020-12-22",
+            "hash": "58542aedd30c6b5502d95e9f6a67a94f"
+        },
+        {
+            "date": 1608814524196,
+            "name": "/home/node/app/logs/audit.log.2020-12-24",
+            "hash": "7231efe3f314017e0f372db1e01a4408"
+        },
+        {
+            "date": 1608910751928,
+            "name": "/home/node/app/logs/audit.log.2020-12-25",
+            "hash": "9a791f74e1f260b3f771ad2a81c09dd4"
+        },
+        {
+            "date": 1609346282367,
+            "name": "/home/node/app/logs/audit.log.2020-12-30",
+            "hash": "c54239b911dac7385b66ddbe4239de89"
+        },
+        {
+            "date": 1609671515538,
+            "name": "/home/node/app/logs/audit.log.2021-01-03",
+            "hash": "3100669c9afea8d51bc11099ff2bf6ea"
+        },
+        {
+            "date": 1609753716051,
+            "name": "/home/node/app/logs/audit.log.2021-01-04",
+            "hash": "21d91380783e53cc3045931574cab968"
+        },
+        {
+            "date": 1609838297994,
+            "name": "/home/node/app/logs/audit.log.2021-01-05",
+            "hash": "f0b3c0574d772a9d5b9b0ed6832977cd"
+        },
+        {
+            "date": 1609923179021,
+            "name": "/home/node/app/logs/audit.log.2021-01-06",
+            "hash": "c9052118dafd02a221932333521448a2"
+        },
+        {
+            "date": 1610012173673,
+            "name": "/home/node/app/logs/audit.log.2021-01-07",
+            "hash": "7d9596213fc4412e185554b11d96479d"
+        },
+        {
+            "date": 1610114812310,
+            "name": "/home/node/app/logs/audit.log.2021-01-08",
+            "hash": "8cd965ac81b9e45d73c89cf32a3a4515"
+        },
+        {
+            "date": 1610200835840,
+            "name": "/home/node/app/logs/audit.log.2021-01-09",
+            "hash": "f300ab2ae01e7dc71d6bbbd57754b60c"
+        },
+        {
+            "date": 1610269553697,
+            "name": "/home/node/app/logs/audit.log.2021-01-10",
+            "hash": "ea91627b8c5abbdd8a25ec843b11a362"
+        },
+        {
+            "date": 1610358610411,
+            "name": "/home/node/app/logs/audit.log.2021-01-11",
+            "hash": "06f8d0673dd1a4f3325e525248fa4974"
+        },
+        {
+            "date": 1610452765071,
+            "name": "/home/node/app/logs/audit.log.2021-01-12",
+            "hash": "51397acceb7ee8344f8176d9114be0b7"
+        },
+        {
+            "date": 1610530098647,
+            "name": "/home/node/app/logs/audit.log.2021-01-13",
+            "hash": "6419eefe2c0caa78a7ca4dd738fa2a91"
+        },
+        {
+            "date": 1610613723935,
+            "name": "/home/node/app/logs/audit.log.2021-01-14",
+            "hash": "961d85ff6e89264b85d6730f1eec9833"
+        },
+        {
+            "date": 1610696000655,
+            "name": "/home/node/app/logs/audit.log.2021-01-15",
+            "hash": "f5df5308477038fe37265a5fc42e821e"
+        },
+        {
+            "date": 1610786990199,
+            "name": "/home/node/app/logs/audit.log.2021-01-16",
+            "hash": "38803f2c0f30b7ce2efdc5c071f062ef"
+        },
+        {
+            "date": 1610841603188,
+            "name": "/home/node/app/logs/audit.log.2021-01-17",
+            "hash": "0fb1562bbb255c647cd9eae705a765f2"
+        },
+        {
+            "date": 1610929808837,
+            "name": "/home/node/app/logs/audit.log.2021-01-18",
+            "hash": "1d2c9ff40e5d64de7a7ecfc882aeb2be"
+        },
+        {
+            "date": 1611053290142,
+            "name": "/home/node/app/logs/audit.log.2021-01-19",
+            "hash": "453c0b14d4903bd0c0b486c762ea626a"
+        },
+        {
+            "date": 1611568977915,
+            "name": "/home/node/app/logs/audit.log.2021-01-25",
+            "hash": "8f657c5014c4f7e9f0bd64a12661f750"
+        },
+        {
+            "date": 1611661089845,
+            "name": "/home/node/app/logs/audit.log.2021-01-26",
+            "hash": "1ae44bce721adda5535c0284be4249a8"
+        },
+        {
+            "date": 1611739389597,
+            "name": "/home/node/app/logs/audit.log.2021-01-27",
+            "hash": "97f196b66df59f6177726f9dd936937f"
+        },
+        {
+            "date": 1611916025852,
+            "name": "/home/node/app/logs/audit.log.2021-01-29",
+            "hash": "d7610aa48377d5391f95566fbf20a47d"
+        },
+        {
+            "date": 1612171995491,
+            "name": "/home/node/app/logs/audit.log.2021-02-01",
+            "hash": "7c200d8828c7303a5ab6d3d534ac61f2"
+        }
+    ]
+}

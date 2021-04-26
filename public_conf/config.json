@@ -1,0 +1,9 @@
+{
+"components": {
+"logging":{
+"datePattern": "YYYY-MM-DD",
+"maxFiles": "30"
+
+}
+}
+}

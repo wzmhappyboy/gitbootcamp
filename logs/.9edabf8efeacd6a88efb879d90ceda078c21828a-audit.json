@@ -1,0 +1,159 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/node/app/logs/.9edabf8efeacd6a88efb879d90ceda078c21828a-audit.json",
+    "files": [
+        {
+            "date": 1610098141455,
+            "name": "/home/node/app/logs/system.log.2021-01-08",
+            "hash": "365849a2e86eea8098c07ebf7d52e13c"
+        },
+        {
+            "date": 1610194347801,
+            "name": "/home/node/app/logs/system.log.2021-01-09",
+            "hash": "f8f57b14042e6c36537f050929371b90"
+        },
+        {
+            "date": 1610269055573,
+            "name": "/home/node/app/logs/system.log.2021-01-10",
+            "hash": "4d7e6ef5daa3bba3df9849e143d46f9f"
+        },
+        {
+            "date": 1610356899454,
+            "name": "/home/node/app/logs/system.log.2021-01-11",
+            "hash": "3ac4da66e01dc8b1e43d66014154c83d"
+        },
+        {
+            "date": 1610442819101,
+            "name": "/home/node/app/logs/system.log.2021-01-12",
+            "hash": "e2879ad6de24158e9611d6f4ace8531e"
+        },
+        {
+            "date": 1610528857407,
+            "name": "/home/node/app/logs/system.log.2021-01-13",
+            "hash": "3f9ca1a6ce5b9a06a2ca973aa4689082"
+        },
+        {
+            "date": 1610612705454,
+            "name": "/home/node/app/logs/system.log.2021-01-14",
+            "hash": "161d8cb71df79119395276afd940b47c"
+        },
+        {
+            "date": 1610694806626,
+            "name": "/home/node/app/logs/system.log.2021-01-15",
+            "hash": "5162c9745e9538f959d41765d38216f5"
+        },
+        {
+            "date": 1610786127830,
+            "name": "/home/node/app/logs/system.log.2021-01-16",
+            "hash": "29f2cf31d033917e0e130070a645d81f"
+        },
+        {
+            "date": 1610841603186,
+            "name": "/home/node/app/logs/system.log.2021-01-17",
+            "hash": "d2dfd0a06d017432e7da1cfbb204c037"
+        },
+        {
+            "date": 1610928048566,
+            "name": "/home/node/app/logs/system.log.2021-01-18",
+            "hash": "a622aaa9afce95b32e24369a474dcffd"
+        },
+        {
+            "date": 1611050638726,
+            "name": "/home/node/app/logs/system.log.2021-01-19",
+            "hash": "5696209a4642ce3f5f7790f34a1f3ff1"
+        },
+        {
+            "date": 1611138331405,
+            "name": "/home/node/app/logs/system.log.2021-01-20",
+            "hash": "c40caa405f38c28f88c2e126768a235b"
+        },
+        {
+            "date": 1611323653175,
+            "name": "/home/node/app/logs/system.log.2021-01-22",
+            "hash": "cac8493d0ba432a7baa5da604eb86b05"
+        },
+        {
+            "date": 1611566228496,
+            "name": "/home/node/app/logs/system.log.2021-01-25",
+            "hash": "ca7654418a9324134d9dd2b95e5c381b"
+        },
+        {
+            "date": 1611653663136,
+            "name": "/home/node/app/logs/system.log.2021-01-26",
+            "hash": "078bce98fe919ad05a2f0e072b1d99a8"
+        },
+        {
+            "date": 1611737774917,
+            "name": "/home/node/app/logs/system.log.2021-01-27",
+            "hash": "aa7d3f8d48382d1fee63263c4210150b"
+        },
+        {
+            "date": 1611824619439,
+            "name": "/home/node/app/logs/system.log.2021-01-28",
+            "hash": "a93cdc4ea42755965cc3271445e5e163"
+        },
+        {
+            "date": 1611913579354,
+            "name": "/home/node/app/logs/system.log.2021-01-29",
+            "hash": "bd9b14358305b467d5855386176606ad"
+        },
+        {
+            "date": 1612171295716,
+            "name": "/home/node/app/logs/system.log.2021-02-01",
+            "hash": "582df871fb7f312bfb04de6e2416e4c3"
+        },
+        {
+            "date": 1612257297601,
+            "name": "/home/node/app/logs/system.log.2021-02-02",
+            "hash": "f6af65ae03601aaa980888dd146277c8"
+        },
+        {
+            "date": 1612344424813,
+            "name": "/home/node/app/logs/system.log.2021-02-03",
+            "hash": "93cd8dcbbc29b7adff15254235bcf841"
+        },
+        {
+            "date": 1612430127335,
+            "name": "/home/node/app/logs/system.log.2021-02-04",
+            "hash": "75975231f2b4affc0d1be86ff4790545"
+        },
+        {
+            "date": 1612516132045,
+            "name": "/home/node/app/logs/system.log.2021-02-05",
+            "hash": "a464b029d2a3456d38b6d6def9a2ef58"
+        },
+        {
+            "date": 1612787815778,
+            "name": "/home/node/app/logs/system.log.2021-02-08",
+            "hash": "0061f8a01094766492abaefcd806af9b"
+        },
+        {
+            "date": 1612881642857,
+            "name": "/home/node/app/logs/system.log.2021-02-09",
+            "hash": "dc9b38d957c83c3928b5b24077350668"
+        },
+        {
+            "date": 1614004791170,
+            "name": "/home/node/app/logs/system.log.2021-02-22",
+            "hash": "43d5300c924cf535ba14a4916fa4249d"
+        },
+        {
+            "date": 1614189464396,
+            "name": "/home/node/app/logs/system.log.2021-02-24",
+            "hash": "59cb440eefa3023b5867c37516a70f61"
+        },
+        {
+            "date": 1615194467547,
+            "name": "/home/node/app/logs/system.log.2021-03-08",
+            "hash": "be91920774fe97dbcbfd4012c33cda54"
+        },
+        {
+            "date": 1615285390228,
+            "name": "/home/node/app/logs/system.log.2021-03-09",
+            "hash": "3f52995a89103d69149d7e8a85613822"
+        }
+    ]
+}

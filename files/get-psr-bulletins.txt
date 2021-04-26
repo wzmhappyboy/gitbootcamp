@@ -1,0 +1,4766 @@
+[
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090408-asa",
+        "cveId": "CVE-2009-1155,CVE-2009-1156,CVE-2009-1157,CVE-2009-1158,CVE-2009-1159,CVE-2009-1160",
+        "psirtColdId": 180,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090408-asa",
+        "cveId": "CVE-2009-1155,CVE-2009-1156,CVE-2009-1157,CVE-2009-1158,CVE-2009-1159,CVE-2009-1160",
+        "psirtColdId": 181,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090408-asa",
+        "cveId": "CVE-2009-1155,CVE-2009-1156,CVE-2009-1157,CVE-2009-1158,CVE-2009-1159,CVE-2009-1160",
+        "psirtColdId": 182,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-sip",
+        "cveId": "CVE-2008-3799,CVE-2008-3800,CVE-2008-3801,CVE-2008-3802",
+        "psirtColdId": 144,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-mace",
+        "cveId": "CVE-2012-1312,CVE-2012-1314",
+        "psirtColdId": 335,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090729-bgp",
+        "cveId": "CVE-2009-1168,CVE-2009-2049",
+        "psirtColdId": 185,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090908-tcp24",
+        "cveId": "CVE-2008-4609",
+        "psirtColdId": 177,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-ipsec",
+        "cveId": "CVE-2009-2868",
+        "psirtColdId": 202,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-auth-proxy",
+        "cveId": "CVE-2009-2863",
+        "psirtColdId": 200,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-sip",
+        "cveId": "CVE-2009-2870",
+        "psirtColdId": 204,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-pai",
+        "cveId": "CVE-2012-0384",
+        "psirtColdId": 326,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-acl",
+        "cveId": "CVE-2009-2862",
+        "psirtColdId": 193,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-ntp",
+        "cveId": "CVE-2009-2869",
+        "psirtColdId": 198,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-acl",
+        "cveId": "CVE-2009-2862",
+        "psirtColdId": 191,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-acl",
+        "cveId": "CVE-2009-2862",
+        "psirtColdId": 194,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120926-ecc",
+        "cveId": "CVE-2012-4622",
+        "psirtColdId": 351,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-ios-fw",
+        "cveId": "CVE-2009-2867",
+        "psirtColdId": 199,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090908-tcp24",
+        "cveId": "CVE-2008-4609",
+        "psirtColdId": 186,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 92,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090408-asa",
+        "cveId": "CVE-2009-1155,CVE-2009-1156,CVE-2009-1157,CVE-2009-1158,CVE-2009-1159,CVE-2009-1160",
+        "psirtColdId": 183,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-sip",
+        "cveId": "CVE-2008-3799,CVE-2008-3800,CVE-2008-3801,CVE-2008-3802",
+        "psirtColdId": 148,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090819-fwsm",
+        "cveId": "CVE-2009-0638",
+        "psirtColdId": 188,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090818-bgp",
+        "cveId": "CVE-2009-1154,CVE-2009-2055,CVE-2009-2056",
+        "psirtColdId": 189,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20121010-fwsm",
+        "cveId": "CVE-2012-4661,CVE-2012-4662,CVE-2012-4663",
+        "psirtColdId": 340,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080610-snmpv3",
+        "cveId": "CVE-2008-0960",
+        "psirtColdId": 132,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080610-snmpv3",
+        "cveId": "CVE-2008-0960",
+        "psirtColdId": 134,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-nhrp",
+        "cveId": "CVE-2007-4286",
+        "psirtColdId": 95,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080903-asa",
+        "cveId": "CVE-2008-2732,CVE-2008-2733,CVE-2008-2734,CVE-2008-2735,CVE-2008-2736",
+        "psirtColdId": 136,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-ipc",
+        "cveId": "CVE-2008-3805,CVE-2008-3806",
+        "psirtColdId": 143,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20081022-asa",
+        "cveId": "CVE-2008-3815,CVE-2008-3816,CVE-2008-3817",
+        "psirtColdId": 156,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20111005-fwsm",
+        "cveId": "CVE-2011-3296,CVE-2011-3297,CVE-2011-3298,CVE-2011-3299,CVE-2011-3300,CVE-2011-3301,CVE-2011-3302,CVE-2011-3303",
+        "psirtColdId": 313,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20081022-asa",
+        "cveId": "CVE-2008-3815,CVE-2008-3816,CVE-2008-3817",
+        "psirtColdId": 157,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-zbfw",
+        "cveId": "CVE-2012-0387,CVE-2012-0388,CVE-2012-1310,CVE-2012-1315",
+        "psirtColdId": 331,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-scp",
+        "cveId": "CVE-2007-4263",
+        "psirtColdId": 97,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080326-IPv4IPv6",
+        "cveId": "CVE-2008-1153",
+        "psirtColdId": 103,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080326-queue",
+        "cveId": "CVE-2008-0537",
+        "psirtColdId": 101,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-smartinstall",
+        "cveId": "CVE-2012-0385",
+        "psirtColdId": 328,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-pix",
+        "cveId": null,
+        "psirtColdId": 108,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-pix",
+        "cveId": null,
+        "psirtColdId": 110,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-fwsm",
+        "cveId": null,
+        "psirtColdId": 117,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-fwsm",
+        "cveId": null,
+        "psirtColdId": 118,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080903-asa",
+        "cveId": "CVE-2008-2732,CVE-2008-2733,CVE-2008-2734,CVE-2008-2735,CVE-2008-2736",
+        "psirtColdId": 137,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080903-asa",
+        "cveId": "CVE-2008-2732,CVE-2008-2733,CVE-2008-2734,CVE-2008-2735,CVE-2008-2736",
+        "psirtColdId": 138,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080903-asa",
+        "cveId": "CVE-2008-2732,CVE-2008-2733,CVE-2008-2734,CVE-2008-2735,CVE-2008-2736",
+        "psirtColdId": 139,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080903-asa",
+        "cveId": "CVE-2008-2732,CVE-2008-2733,CVE-2008-2734,CVE-2008-2735,CVE-2008-2736",
+        "psirtColdId": 140,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080123-asa",
+        "cveId": "CVE-2008-0028",
+        "psirtColdId": 124,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090408-asa",
+        "cveId": "CVE-2009-1155,CVE-2009-1156,CVE-2009-1157,CVE-2009-1158,CVE-2009-1159,CVE-2009-1160",
+        "psirtColdId": 178,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070502-asa",
+        "cveId": "CVE-2007-2462,CVE-2007-2463,CVE-2007-2464",
+        "psirtColdId": 119,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070502-asa",
+        "cveId": "CVE-2007-2462,CVE-2007-2463,CVE-2007-2464",
+        "psirtColdId": 120,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070502-asa",
+        "cveId": "CVE-2007-2462,CVE-2007-2463,CVE-2007-2464",
+        "psirtColdId": 121,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080521-ssh",
+        "cveId": "CVE-2008-1159",
+        "psirtColdId": 125,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080604-asa",
+        "cveId": "CVE-2008-2055,CVE-2008-2056,CVE-2008-2057,CVE-2008-2058,CVE-2008-2059",
+        "psirtColdId": 127,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080604-asa",
+        "cveId": "CVE-2008-2055,CVE-2008-2056,CVE-2008-2057,CVE-2008-2058,CVE-2008-2059",
+        "psirtColdId": 128,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20071219-fwsm",
+        "cveId": "CVE-2007-5584",
+        "psirtColdId": 123,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080604-asa",
+        "cveId": "CVE-2008-2055,CVE-2008-2056,CVE-2008-2057,CVE-2008-2058,CVE-2008-2059",
+        "psirtColdId": 129,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080708-dns",
+        "cveId": "CVE-2008-1447,CVE-2008-5133",
+        "psirtColdId": 131,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20040827-telnet",
+        "cveId": "CVE-2004-1464",
+        "psirtColdId": 11,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090408-asa",
+        "cveId": "CVE-2009-1155,CVE-2009-1156,CVE-2009-1157,CVE-2009-1158,CVE-2009-1159,CVE-2009-1160",
+        "psirtColdId": 179,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070213-iosips",
+        "cveId": "CVE-2007-0917,CVE-2007-0918",
+        "psirtColdId": 64,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070213-iosips",
+        "cveId": "CVE-2007-0917,CVE-2007-0918",
+        "psirtColdId": 66,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-fwsm",
+        "cveId": null,
+        "psirtColdId": 116,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 88,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070131-sip",
+        "cveId": "CVE-2007-0648",
+        "psirtColdId": 78,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-fwsm",
+        "cveId": null,
+        "psirtColdId": 111,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-fwsm",
+        "cveId": null,
+        "psirtColdId": 112,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-fwsm",
+        "cveId": null,
+        "psirtColdId": 113,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-fwsm",
+        "cveId": null,
+        "psirtColdId": 114,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20050629-aaa",
+        "cveId": null,
+        "psirtColdId": 32,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20060126-vpn",
+        "cveId": null,
+        "psirtColdId": 35,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20060118-sgbp",
+        "cveId": "CVE-2006-0340",
+        "psirtColdId": 36,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20040818-ospf",
+        "cveId": "CVE-2004-1454",
+        "psirtColdId": 6,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20050406-xauth",
+        "cveId": "CVE-2005-1057,CVE-2005-1058",
+        "psirtColdId": 9,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20050406-ssh",
+        "cveId": "CVE-2005-1020,CVE-2005-1021",
+        "psirtColdId": 7,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20050729-ipv6",
+        "cveId": "CVE-2005-2451",
+        "psirtColdId": 28,
+        "sir": null
+    },
+    {
+        "bulletinUrl": " http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20050330-vpn3k",
+        "cveId": null,
+        "psirtColdId": 15,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20040420-snmp",
+        "cveId": "CVE-2004-0714",
+        "psirtColdId": 29,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20060920-docsis",
+        "cveId": "CVE-2006-4950",
+        "psirtColdId": 46,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20050126-les",
+        "cveId": "CVE-2005-0197",
+        "psirtColdId": 5,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20050907-auth_proxy",
+        "cveId": "CVE-2005-2841",
+        "psirtColdId": 27,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20060628-ap",
+        "cveId": "CVE-2006-3291",
+        "psirtColdId": 43,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070509-iosftp",
+        "cveId": "CVE-2007-2586,CVE-2007-2587",
+        "psirtColdId": 79,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070522-SSL",
+        "cveId": "CVE-2007-2813",
+        "psirtColdId": 81,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070522-SSL",
+        "cveId": "CVE-2007-2813",
+        "psirtColdId": 82,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20030424-catos",
+        "cveId": null,
+        "psirtColdId": 72,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-pix",
+        "cveId": null,
+        "psirtColdId": 74,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070228-mpls",
+        "cveId": "CVE-2007-1258",
+        "psirtColdId": 76,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070228-nam",
+        "cveId": "CVE-2007-1257",
+        "psirtColdId": 75,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070214-fwsm",
+        "cveId": null,
+        "psirtColdId": 115,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100812-tcp",
+        "cveId": "CVE-2010-2827",
+        "psirtColdId": 238,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100922-sip",
+        "cveId": "CVE-2009-2051,CVE-2010-2834,CVE-2010-2835",
+        "psirtColdId": 260,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110126-csg2",
+        "cveId": "CVE-2011-0348,CVE-2011-0349,CVE-2011-0350",
+        "psirtColdId": 261,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110223-asa",
+        "cveId": "CVE-2011-0393,CVE-2011-0394,CVE-2011-0395,CVE-2011-0396",
+        "psirtColdId": 263,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110223-asa",
+        "cveId": "CVE-2011-0393,CVE-2011-0394,CVE-2011-0395,CVE-2011-0396",
+        "psirtColdId": 264,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110223-asa",
+        "cveId": "CVE-2011-0393,CVE-2011-0394,CVE-2011-0395,CVE-2011-0396",
+        "psirtColdId": 262,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110223-fwsm",
+        "cveId": null,
+        "psirtColdId": 267,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110525-iosxr",
+        "cveId": null,
+        "psirtColdId": 275,
+        "sir": null
+    },
+    {
+        "bulletinUrl": " http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110525-iosxr-ssh",
+        "cveId": null,
+        "psirtColdId": 276,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110525-iosxrspa",
+        "cveId": null,
+        "psirtColdId": 278,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100827-bgp",
+        "cveId": "CVE-2010-3035",
+        "psirtColdId": 240,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100804-fwsm",
+        "cveId": "CVE-2010-2818,CVE-2010-2819,CVE-2010-2820,CVE-2010-2821",
+        "psirtColdId": 234,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100804-asa",
+        "cveId": "CVE-2010-1578,CVE-2010-1579,CVE-2010-1580,CVE-2010-1581,CVE-2010-2814,CVE-2010-2815,CVE-2010-2816,CVE-2010-2817",
+        "psirtColdId": 230,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100804-asa",
+        "cveId": "CVE-2010-1578,CVE-2010-1579,CVE-2010-1580,CVE-2010-1581,CVE-2010-2814,CVE-2010-2815,CVE-2010-2816,CVE-2010-2817",
+        "psirtColdId": 231,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100804-asa",
+        "cveId": "CVE-2010-1578,CVE-2010-1579,CVE-2010-1580,CVE-2010-1581,CVE-2010-2814,CVE-2010-2815,CVE-2010-2816,CVE-2010-2817",
+        "psirtColdId": 232,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 85,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070124-IOS-IPv6",
+        "cveId": null,
+        "psirtColdId": 57,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070124-crafted-ip-option",
+        "cveId": "CVE-2007-0480",
+        "psirtColdId": 58,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070124-crafted-tcp",
+        "cveId": "CVE-2007-0479",
+        "psirtColdId": 59,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070131-sip",
+        "cveId": "CVE-2007-0648",
+        "psirtColdId": 63,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-h323",
+        "cveId": "CVE-2010-0582,CVE-2010-0583",
+        "psirtColdId": 221,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-acl",
+        "cveId": "CVE-2009-2862",
+        "psirtColdId": 195,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-acl",
+        "cveId": "CVE-2009-2862",
+        "psirtColdId": 196,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100120-xr-ssh",
+        "cveId": "CVE-2010-0137",
+        "psirtColdId": 207,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-sccp",
+        "cveId": "CVE-2010-0584",
+        "psirtColdId": 225,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-tls",
+        "cveId": "CVE-2009-2871",
+        "psirtColdId": 197,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100217-asa",
+        "cveId": "CVE-2010-0149,CVE-2010-0150,CVE-2010-0151,CVE-2010-0565,CVE-2010-0566,CVE-2010-0567,CVE-2010-0568,CVE-2010-0569",
+        "psirtColdId": 216,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-ldp",
+        "cveId": "CVE-2010-0576",
+        "psirtColdId": 227,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-tunnels",
+        "cveId": "CVE-2009-2872,CVE-2009-2873",
+        "psirtColdId": 190,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100707-snmp",
+        "cveId": "CVE-2010-1574",
+        "psirtColdId": 229,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100217-asa",
+        "cveId": "CVE-2010-0149,CVE-2010-0150,CVE-2010-0151,CVE-2010-0565,CVE-2010-0566,CVE-2010-0567,CVE-2010-0568,CVE-2010-0569",
+        "psirtColdId": 210,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100217-asa",
+        "cveId": "CVE-2010-0149,CVE-2010-0150,CVE-2010-0151,CVE-2010-0565,CVE-2010-0566,CVE-2010-0567,CVE-2010-0568,CVE-2010-0569",
+        "psirtColdId": 211,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100217-asa",
+        "cveId": "CVE-2010-0149,CVE-2010-0150,CVE-2010-0151,CVE-2010-0565,CVE-2010-0566,CVE-2010-0567,CVE-2010-0568,CVE-2010-0569",
+        "psirtColdId": 215,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100217-asa",
+        "cveId": "CVE-2010-0149,CVE-2010-0150,CVE-2010-0151,CVE-2010-0565,CVE-2010-0566,CVE-2010-0567,CVE-2010-0568,CVE-2010-0569",
+        "psirtColdId": 213,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100217-asa",
+        "cveId": "CVE-2010-0149,CVE-2010-0150,CVE-2010-0151,CVE-2010-0565,CVE-2010-0566,CVE-2010-0567,CVE-2010-0568,CVE-2010-0569",
+        "psirtColdId": 214,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100217-fwsm",
+        "cveId": "CVE-2010-0151",
+        "psirtColdId": 209,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100922-sslvpn",
+        "cveId": "CVE-2010-2836",
+        "psirtColdId": 243,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20111005-asa",
+        "cveId": "CVE-2011-3298,CVE-2011-3299,CVE-2011-3300,CVE-2011-3301,CVE-2011-3302,CVE-2011-3303,CVE-2011-3304",
+        "psirtColdId": 286,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-smart-install",
+        "cveId": "CVE-2011-3271",
+        "psirtColdId": 295,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120314-fwsm",
+        "cveId": "CVE-2012-0356",
+        "psirtColdId": 316,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120314-asa",
+        "cveId": "CVE-2012-0353,CVE-2012-0354,CVE-2012-0355,CVE-2012-0356",
+        "psirtColdId": 319,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120530-iosxr",
+        "cveId": "CVE-2012-2488",
+        "psirtColdId": 337,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-ipsla",
+        "cveId": "CVE-2011-3272",
+        "psirtColdId": 292,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20111005-asa",
+        "cveId": "CVE-2011-3298,CVE-2011-3299,CVE-2011-3300,CVE-2011-3301,CVE-2011-3302,CVE-2011-3303,CVE-2011-3304",
+        "psirtColdId": 284,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20111005-asa",
+        "cveId": "CVE-2011-3298,CVE-2011-3299,CVE-2011-3300,CVE-2011-3301,CVE-2011-3302,CVE-2011-3303,CVE-2011-3304",
+        "psirtColdId": 287,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110720-asr9k",
+        "cveId": null,
+        "psirtColdId": 281,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20111005-fwsm",
+        "cveId": "CVE-2011-3296,CVE-2011-3297,CVE-2011-3298,CVE-2011-3299,CVE-2011-3300,CVE-2011-3301,CVE-2011-3302,CVE-2011-3303",
+        "psirtColdId": 289,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120314-asaclient",
+        "cveId": "CVE-2012-0358",
+        "psirtColdId": 320,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120926-nat",
+        "cveId": "CVE-2012-4618,CVE-2012-4619,CVE-2012-TBD",
+        "psirtColdId": 356,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120926-dhcp",
+        "cveId": "CVE-2012-4621",
+        "psirtColdId": 353,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120926-dhcpv6",
+        "cveId": "CVE-2012-4623",
+        "psirtColdId": 355,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120926-ios-ips",
+        "cveId": "CVE-2012-3950",
+        "psirtColdId": 348,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20111005-fwsm",
+        "cveId": "CVE-2011-3296,CVE-2011-3297,CVE-2011-3298,CVE-2011-3299,CVE-2011-3300,CVE-2011-3301,CVE-2011-3302,CVE-2011-3303",
+        "psirtColdId": 288,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120926-bgp",
+        "cveId": "CVE-2012-4617",
+        "psirtColdId": 358,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20121010-asa",
+        "cveId": "CVE-2012-4643,CVE-2012-4659,CVE-2012-4660,CVE-2012-4661,CVE-2012-4662,CVE-2012-4663",
+        "psirtColdId": 364,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20121010-asa",
+        "cveId": "CVE-2012-4643,CVE-2012-4659,CVE-2012-4660,CVE-2012-4661,CVE-2012-4662,CVE-2012-4663",
+        "psirtColdId": 362,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120314-asa",
+        "cveId": "CVE-2012-0353,CVE-2012-0354,CVE-2012-0355,CVE-2012-0356",
+        "psirtColdId": 318,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120314-asa",
+        "cveId": "CVE-2012-0353,CVE-2012-0354,CVE-2012-0355,CVE-2012-0356",
+        "psirtColdId": 315,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-msdp",
+        "cveId": "CVE-2012-0382",
+        "psirtColdId": 323,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-nat",
+        "cveId": "CVE-2012-0383",
+        "psirtColdId": 324,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-zbfw",
+        "cveId": "CVE-2012-0387,CVE-2012-0388,CVE-2012-1310,CVE-2012-1315",
+        "psirtColdId": 322,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-mace",
+        "cveId": "CVE-2012-1312,CVE-2012-1314",
+        "psirtColdId": 336,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110907-nexus",
+        "cveId": null,
+        "psirtColdId": 282,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-ike",
+        "cveId": "CVE-2012-0381",
+        "psirtColdId": 329,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-rsvp",
+        "cveId": "CVE-2012-1311",
+        "psirtColdId": 330,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-zbfw",
+        "cveId": "CVE-2012-0387,CVE-2012-0388,CVE-2012-1310,CVE-2012-1315",
+        "psirtColdId": 327,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-zbfw",
+        "cveId": "CVE-2012-0387,CVE-2012-0388,CVE-2012-1310,CVE-2012-1315",
+        "psirtColdId": 333,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120328-ssh",
+        "cveId": "CVE-2012-0386",
+        "psirtColdId": 325,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20111005-asa",
+        "cveId": "CVE-2011-3298,CVE-2011-3299,CVE-2011-3300,CVE-2011-3301,CVE-2011-3302,CVE-2011-3303,CVE-2011-3304",
+        "psirtColdId": 285,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120314-asa",
+        "cveId": "CVE-2012-0353,CVE-2012-0354,CVE-2012-0355,CVE-2012-0356",
+        "psirtColdId": 317,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120620-asaipv6",
+        "cveId": "CVE-2012-3058",
+        "psirtColdId": 338,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120926-c10k-tunnels",
+        "cveId": "CVE-2012-4620",
+        "psirtColdId": 352,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120926-bgp",
+        "cveId": "CVE-2012-4617",
+        "psirtColdId": 357,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120926-sip",
+        "cveId": "CVE-2012-3949",
+        "psirtColdId": 359,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120926-bgp",
+        "cveId": "CVE-2012-4617",
+        "psirtColdId": 360,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130116-asa1000v",
+        "cveId": "CVE-2012-5419",
+        "psirtColdId": 365,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20121010-fwsm",
+        "cveId": "CVE-2012-4661,CVE-2012-4662,CVE-2012-4663",
+        "psirtColdId": 339,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20121010-asa",
+        "cveId": "CVE-2012-4643,CVE-2012-4659,CVE-2012-4660,CVE-2012-4661,CVE-2012-4662,CVE-2012-4663",
+        "psirtColdId": 341,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20121010-asa",
+        "cveId": "CVE-2012-4643,CVE-2012-4659,CVE-2012-4660,CVE-2012-4661,CVE-2012-4662,CVE-2012-4663",
+        "psirtColdId": 342,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-asa",
+        "cveId": "CVE-2013-1149,CVE-2013-1150,CVE-2013-1151,CVE-2013-1152",
+        "psirtColdId": 373,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-asa",
+        "cveId": "CVE-2013-1149,CVE-2013-1150,CVE-2013-1151,CVE-2013-1152",
+        "psirtColdId": 381,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-asa",
+        "cveId": "CVE-2013-1149,CVE-2013-1150,CVE-2013-1151,CVE-2013-1152",
+        "psirtColdId": 382,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130327-ipsla",
+        "cveId": "CVE-2013-1148",
+        "psirtColdId": 374,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130327-rsvp",
+        "cveId": "CVE-2013-1143",
+        "psirtColdId": 375,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130327-cce",
+        "cveId": "CVE-2013-1145",
+        "psirtColdId": 376,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130327-smartinstall",
+        "cveId": "CVE-2013-1146",
+        "psirtColdId": 377,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130327-pt",
+        "cveId": "CVE-2013-1147",
+        "psirtColdId": 378,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130327-ike",
+        "cveId": "CVE-2013-1144",
+        "psirtColdId": 379,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-asr1000",
+        "cveId": "CVE-2013-1164,CVE-2013-1165,CVE-2013-1166,CVE-2013-1167,CVE-2013-2779",
+        "psirtColdId": 383,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-asr1000",
+        "cveId": "CVE-2013-1164,CVE-2013-1165,CVE-2013-1166,CVE-2013-1167,CVE-2013-2779",
+        "psirtColdId": 385,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-asr1000",
+        "cveId": "CVE-2013-1164,CVE-2013-1165,CVE-2013-1166,CVE-2013-1167,CVE-2013-2779",
+        "psirtColdId": 387,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-asa",
+        "cveId": "CVE-2013-1149,CVE-2013-1150,CVE-2013-1151,CVE-2013-1152",
+        "psirtColdId": 380,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130424-nxosmulti",
+        "cveId": "CSCtx95389,CVE-2013-1178,CVE-2013-1179,CVE-2013-1180,CVE-2013-1181",
+        "psirtColdId": 388,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130424-nxosmulti",
+        "cveId": "CSCtx95389,CVE-2013-1178,CVE-2013-1179,CVE-2013-1180,CVE-2013-1181",
+        "psirtColdId": 390,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130424-nxosmulti",
+        "cveId": "CSCtx95389,CVE-2013-1178,CVE-2013-1179,CVE-2013-1180,CVE-2013-1181",
+        "psirtColdId": 391,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130424-nxosmulti",
+        "cveId": "CSCtx95389,CVE-2013-1178,CVE-2013-1179,CVE-2013-1180,CVE-2013-1181",
+        "psirtColdId": 392,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130801-lsaospf",
+        "cveId": "CVE-2013-0149",
+        "psirtColdId": 395,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130801-lsaospf",
+        "cveId": "CVE-2013-0149",
+        "psirtColdId": 394,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130925-dhcp",
+        "cveId": "CVE-2013-5475",
+        "psirtColdId": 399,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130925-ntp",
+        "cveId": "CVE-2013-5472",
+        "psirtColdId": 400,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130925-cce",
+        "cveId": "CVE-2013-5476",
+        "psirtColdId": 405,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130925-rsvp",
+        "cveId": "CVE-2013-5478",
+        "psirtColdId": 403,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130925-wedge",
+        "cveId": "CVE-2013-5477",
+        "psirtColdId": 402,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130925-ike",
+        "cveId": "CVE-2013-5473",
+        "psirtColdId": 401,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131002-iosxr",
+        "cveId": "CVE-2013-5503",
+        "psirtColdId": 408,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-asa",
+        "cveId": "CVE-2013-3415,CVE-2013-5507,CVE-2013-5508,CVE-2013-5509,CVE-2013-5510,CVE-2013-5511,CVE-2013-5512,CVE-2013-5513,CVE-2013-5515,CVE-2013-5542",
+        "psirtColdId": 418,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-asa",
+        "cveId": "CVE-2013-3415,CVE-2013-5507,CVE-2013-5508,CVE-2013-5509,CVE-2013-5510,CVE-2013-5511,CVE-2013-5512,CVE-2013-5513,CVE-2013-5515,CVE-2013-5542",
+        "psirtColdId": 416,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-asa",
+        "cveId": "CVE-2013-3415,CVE-2013-5507,CVE-2013-5508,CVE-2013-5509,CVE-2013-5510,CVE-2013-5511,CVE-2013-5512,CVE-2013-5513,CVE-2013-5515,CVE-2013-5542",
+        "psirtColdId": 411,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131023-iosxr",
+        "cveId": "CVE-2013-5549",
+        "psirtColdId": 424,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131030-asr1000",
+        "cveId": "CVE-2013-5543,CVE-2013-5545,CVE-2013-5546,CVE-2013-5547",
+        "psirtColdId": 423,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131106-sip",
+        "cveId": "CVE-2013-5553",
+        "psirtColdId": 426,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140219-fwsm",
+        "cveId": "CVE-2014-0710",
+        "psirtColdId": 427,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140326-sip",
+        "cveId": "CVE-2014-2106",
+        "psirtColdId": 431,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140326-RSP72010GE",
+        "cveId": "CVE-2014-2107",
+        "psirtColdId": 429,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140326-ipv6",
+        "cveId": "CVE-2014-2113",
+        "psirtColdId": 438,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140326-nat",
+        "cveId": "CVE-2014-2109,CVE-2014-2110,CVE-2014-2111",
+        "psirtColdId": 472,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140326-ios-sslvpn",
+        "cveId": "CVE-2014-2112",
+        "psirtColdId": 473,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140409-asa",
+        "cveId": "CVE-2014-2126,CVE-2014-2127,CVE-2014-2128,CVE-2014-2129",
+        "psirtColdId": 474,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140611-ipv6",
+        "cveId": "CVE-2014-2176",
+        "psirtColdId": 476,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140521-nxos",
+        "cveId": "CVE-2013-1191,CVE-2014-2200,CVE-2014-2201,CVE-2014-3261",
+        "psirtColdId": 480,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140521-nxos",
+        "cveId": "CVE-2013-1191,CVE-2014-2200,CVE-2014-2201,CVE-2014-3261",
+        "psirtColdId": 479,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140605-openssl",
+        "cveId": "CVE-2010-5298,CVE-2014-0076,CVE-2014-0195,CVE-2014-0198,CVE-2014-0221,CVE-2014-0224,CVE-2014-3470",
+        "psirtColdId": 481,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140605-openssl",
+        "cveId": "CVE-2010-5298,CVE-2014-0076,CVE-2014-0195,CVE-2014-0198,CVE-2014-0221,CVE-2014-0224,CVE-2014-3470",
+        "psirtColdId": 482,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140605-openssl",
+        "cveId": "CVE-2010-5298,CVE-2014-0076,CVE-2014-0195,CVE-2014-0198,CVE-2014-0221,CVE-2014-0224,CVE-2014-3470",
+        "psirtColdId": 483,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140806-energywise",
+        "cveId": "CVE-2014-3327",
+        "psirtColdId": 484,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140605-openssl",
+        "cveId": "CVE-2010-5298,CVE-2014-0076,CVE-2014-0195,CVE-2014-0198,CVE-2014-0221,CVE-2014-0224,CVE-2014-3470",
+        "psirtColdId": 485,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140924-nat",
+        "cveId": "CVE-2014-3361",
+        "psirtColdId": 495,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140924-metadata",
+        "cveId": "CVE-2014-3355,CVE-2014-3356",
+        "psirtColdId": 503,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140924-rsvp",
+        "cveId": "CVE-2014-3354",
+        "psirtColdId": 500,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140924-mdns",
+        "cveId": "CVE-2014-3357,CVE-2014-3358,CVE-2014-TBD",
+        "psirtColdId": 504,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 508,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 507,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 510,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141015-poodle",
+        "cveId": "CVE-2014-3566",
+        "psirtColdId": 518,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141015-poodle",
+        "cveId": "CVE-2014-3566",
+        "psirtColdId": 519,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140926-bash",
+        "cveId": "CVE-2014-6271,CVE-2014-6277,CVE-2014-6278,CVE-2014-7169,CVE-2014-7186,CVE-2014-7187",
+        "psirtColdId": 520,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140926-bash",
+        "cveId": "CVE-2014-6271,CVE-2014-6277,CVE-2014-6278,CVE-2014-7169,CVE-2014-7186,CVE-2014-7187",
+        "psirtColdId": 521,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140926-bash",
+        "cveId": "CVE-2014-6271,CVE-2014-6277,CVE-2014-6278,CVE-2014-7169,CVE-2014-7186,CVE-2014-7187",
+        "psirtColdId": 522,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141015-poodle",
+        "cveId": "CVE-2014-3566",
+        "psirtColdId": 524,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150220-ipv6",
+        "cveId": "CVE-2015-0618",
+        "psirtColdId": 525,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150128-ghost",
+        "cveId": "CVE-2015-0235",
+        "psirtColdId": 526,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150128-ghost",
+        "cveId": "CVE-2015-0235",
+        "psirtColdId": 527,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-mdns",
+        "cveId": "CVE-2015-0650",
+        "psirtColdId": 543,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-cip",
+        "cveId": "CVE-2015-0647,CVE-2015-0648,CVE-2015-0649",
+        "psirtColdId": 533,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-iosxe",
+        "cveId": "CVE-2015-0639,CVE-2015-0640,CVE-2015-0641,CVE-2015-0644,CVE-2015-0645",
+        "psirtColdId": 539,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-wedge",
+        "cveId": "CVE-2015-0638",
+        "psirtColdId": 545,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-tcpleak",
+        "cveId": "CVE-2015-0646",
+        "psirtColdId": 544,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-iosxe",
+        "cveId": "CVE-2015-0639,CVE-2015-0640,CVE-2015-0641,CVE-2015-0644,CVE-2015-0645",
+        "psirtColdId": 542,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-iosxe",
+        "cveId": "CVE-2015-0639,CVE-2015-0640,CVE-2015-0641,CVE-2015-0644,CVE-2015-0645",
+        "psirtColdId": 538,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-iosxe",
+        "cveId": "CVE-2015-0639,CVE-2015-0640,CVE-2015-0641,CVE-2015-0644,CVE-2015-0645",
+        "psirtColdId": 541,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150408-asa",
+        "cveId": "CVE-2015-0675,CVE-2015-0676,CVE-2015-0677",
+        "psirtColdId": 546,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150408-asa",
+        "cveId": "CVE-2015-0675,CVE-2015-0676,CVE-2015-0677",
+        "psirtColdId": 547,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150415-iosxr",
+        "cveId": "CVE-2015-0695",
+        "psirtColdId": 549,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150408-ntpd",
+        "cveId": "CVE-2015-1798,CVE-2015-1799",
+        "psirtColdId": 550,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150408-ntpd",
+        "cveId": "CVE-2015-1798,CVE-2015-1799",
+        "psirtColdId": 551,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150408-ntpd",
+        "cveId": "CVE-2015-1798,CVE-2015-1799",
+        "psirtColdId": 554,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150611-iosxr",
+        "cveId": "CVE-2015-0769",
+        "psirtColdId": 555,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150722-tftp",
+        "cveId": "CVE-2015-0681",
+        "psirtColdId": 557,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150722-apic",
+        "cveId": "CVE-2015-4235",
+        "psirtColdId": 558,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 509,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150730-asr1k",
+        "cveId": "CVE-2015-4291",
+        "psirtColdId": 559,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150923-fhs",
+        "cveId": "CVE-2015-6278,CVE-2015-6279",
+        "psirtColdId": 560,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150923-fhs",
+        "cveId": "CVE-2015-6278,CVE-2015-6279",
+        "psirtColdId": 561,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150923-iosxe",
+        "cveId": "CVE-2015-6282",
+        "psirtColdId": 564,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150923-sshpk",
+        "cveId": "CVE-2015-6280",
+        "psirtColdId": 563,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151021-asa-dns1",
+        "cveId": "CVE-2015-6325",
+        "psirtColdId": 574,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151021-asa-dns2",
+        "cveId": "CVE-2015-6326",
+        "psirtColdId": 575,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150115-asa-dhcp",
+        "cveId": "CVE-2015-0578",
+        "psirtColdId": 577,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151021-asa-ike",
+        "cveId": "CVE-2015-6327",
+        "psirtColdId": 578,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160210-asa-ike",
+        "cveId": "CVE-2016-1287",
+        "psirtColdId": 583,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150408-ntpd",
+        "cveId": "CVE-2015-1798,CVE-2015-1799",
+        "psirtColdId": 565,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160203-n9knci",
+        "cveId": "CVE-2015-6398",
+        "psirtColdId": 585,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160302-n5ksnmp",
+        "cveId": "CVE-2015-6260",
+        "psirtColdId": 587,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141015-poodle",
+        "cveId": "CVE-2014-3566",
+        "psirtColdId": 579,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150320-openssl",
+        "cveId": "CVE-2015-0207,CVE-2015-0209,CVE-2015-0285,CVE-2015-0287,CVE-2015-0288,CVE-2015-0289,CVE-2015-0290,CVE-2015-0291,CVE-2015-0292,CVE-2015-0293,CVE-2015-1787",
+        "psirtColdId": 584,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
+        "cveId": "CVE-2016-1347",
+        "psirtColdId": 591,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-dhcpv6",
+        "cveId": "CVE-2016-1348",
+        "psirtColdId": 590,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-ios-ikev2",
+        "cveId": "CVE-2016-1344",
+        "psirtColdId": 600,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-lisp",
+        "cveId": "CVE-2016-1351",
+        "psirtColdId": 622,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160420-asa-dhcpv6",
+        "cveId": "CVE-2016-1367",
+        "psirtColdId": 623,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160218-glibc",
+        "cveId": "CVE-2015-7547",
+        "psirtColdId": 626,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160713-ncs6k",
+        "cveId": "CVE-2016-1426",
+        "psirtColdId": 627,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160810-iosxr",
+        "cveId": "CVE-2016-6355",
+        "psirtColdId": 628,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160804-wedge",
+        "cveId": "CVE-2016-1478",
+        "psirtColdId": 630,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160817-asa-cli",
+        "cveId": "CVE-2016-6367",
+        "psirtColdId": 636,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160817-asa-snmp",
+        "cveId": "CVE-2016-6366",
+        "psirtColdId": 637,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141015-poodle",
+        "cveId": "CVE-2014-3566",
+        "psirtColdId": 528,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-dns",
+        "cveId": "CVE-2016-6380",
+        "psirtColdId": 639,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-smi",
+        "cveId": "CVE-2016-6385",
+        "psirtColdId": 646,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-ios-ikev1",
+        "cveId": "CVE-2016-6381",
+        "psirtColdId": 647,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-ipdr",
+        "cveId": "CVE-2016-6379",
+        "psirtColdId": 651,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-h323",
+        "cveId": "CVE-2016-6384",
+        "psirtColdId": 653,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-cip",
+        "cveId": "CVE-2016-6391",
+        "psirtColdId": 648,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-aaados",
+        "cveId": "CVE-2016-6393",
+        "psirtColdId": 652,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-frag",
+        "cveId": "CVE-2016-6386",
+        "psirtColdId": 650,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-esp-nat",
+        "cveId": "CVE-2016-6378",
+        "psirtColdId": 649,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161005-otv",
+        "cveId": "CVE-2016-1453",
+        "psirtColdId": 660,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161005-n9kinfo",
+        "cveId": "CVE-2016-1455",
+        "psirtColdId": 662,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161005-bgp",
+        "cveId": "CVE-2016-1454",
+        "psirtColdId": 661,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161019-asa-ca",
+        "cveId": "CVE-2016-6431",
+        "psirtColdId": 663,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161102-tl1",
+        "cveId": "CVE-2016-6441",
+        "psirtColdId": 667,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170208-asa",
+        "cveId": "CVE-2017-3807",
+        "psirtColdId": 669,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170322-dhcpc",
+        "cveId": "CVE-2017-3864",
+        "psirtColdId": 673,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170322-l2tp",
+        "cveId": "CVE-2017-3857",
+        "psirtColdId": 674,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170322-xeci",
+        "cveId": "CVE-2017-3858",
+        "psirtColdId": 676,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170322-webui",
+        "cveId": "CVE-2017-3856",
+        "psirtColdId": 675,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170317-cmp",
+        "cveId": "CVE-2017-3881",
+        "psirtColdId": 679,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170320-ani",
+        "cveId": "CVE-2017-3849",
+        "psirtColdId": 680,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170320-aniipv6",
+        "cveId": "CVE-2017-3850",
+        "psirtColdId": 681,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170419-asa-ipsec",
+        "cveId": "CVE-2017-6609",
+        "psirtColdId": 685,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170419-asa-tls",
+        "cveId": "CVE-2017-6608",
+        "psirtColdId": 683,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170503-ios-xr",
+        "cveId": "CVE-2017-3876",
+        "psirtColdId": 692,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170629-snmp",
+        "cveId": "CVE-2017-6736,CVE-2017-6737,CVE-2017-6738,CVE-2017-6739,CVE-2017-6740,CVE-2017-6741,CVE-2017-6742,CVE-2017-6743,CVE-2017-6744",
+        "psirtColdId": 702,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170727-ospf",
+        "cveId": "CVE-2017-6770",
+        "psirtColdId": 709,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-ubr",
+        "cveId": "CVE-2008-3807",
+        "psirtColdId": 142,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-sip",
+        "cveId": "CVE-2010-0579,CVE-2010-0580,CVE-2010-0581",
+        "psirtColdId": 220,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-cme",
+        "cveId": "CVE-2009-2865",
+        "psirtColdId": 203,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-h323",
+        "cveId": "CVE-2009-2866",
+        "psirtColdId": 201,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-acl",
+        "cveId": "CVE-2009-2862",
+        "psirtColdId": 192,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 98,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080604-asa",
+        "cveId": "CVE-2008-2055,CVE-2008-2056,CVE-2008-2057,CVE-2008-2058,CVE-2008-2059",
+        "psirtColdId": 130,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-sccp",
+        "cveId": "CVE-2008-3810,CVE-2008-3811",
+        "psirtColdId": 145,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-multicast",
+        "cveId": "CVE-2008-3808,CVE-2008-3809",
+        "psirtColdId": 154,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090325-webvpn",
+        "cveId": "CVE-2009-0626",
+        "psirtColdId": 171,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 96,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070522-SSL",
+        "cveId": "CVE-2007-2813",
+        "psirtColdId": 80,
+        "sir": "Low"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080604-asa",
+        "cveId": "CVE-2008-2055,CVE-2008-2056,CVE-2008-2057,CVE-2008-2058,CVE-2008-2059",
+        "psirtColdId": 126,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20081022-asa",
+        "cveId": "CVE-2008-3815,CVE-2008-3816,CVE-2008-3817",
+        "psirtColdId": 158,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 90,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20060823-vpn3k",
+        "cveId": "CVE-2006-4313",
+        "psirtColdId": 44,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20051201-http",
+        "cveId": "CVE-2005-3921",
+        "psirtColdId": 48,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100922-h323",
+        "cveId": "CVE-2010-2828,CVE-2010-2829",
+        "psirtColdId": 254,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110223-asa",
+        "cveId": "CVE-2011-0393,CVE-2011-0394,CVE-2011-0395,CVE-2011-0396",
+        "psirtColdId": 266,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110706-csg",
+        "cveId": null,
+        "psirtColdId": 279,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100922-igmp",
+        "cveId": "CVE-2010-2830",
+        "psirtColdId": 242,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100804-asa",
+        "cveId": "CVE-2010-1578,CVE-2010-1579,CVE-2010-1580,CVE-2010-1581,CVE-2010-2814,CVE-2010-2815,CVE-2010-2816,CVE-2010-2817",
+        "psirtColdId": 236,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-nat",
+        "cveId": "CVE-2011-3276,CVE-2011-3277,CVE-2011-3278,CVE-2011-3279,CVE-2011-3280",
+        "psirtColdId": 314,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-cucme",
+        "cveId": "CVE-2010-0585,CVE-2010-0586",
+        "psirtColdId": 217,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-sip",
+        "cveId": "CVE-2010-0579,CVE-2010-0580,CVE-2010-0581",
+        "psirtColdId": 224,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-ipsec",
+        "cveId": "CVE-2010-0578",
+        "psirtColdId": 223,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20120215-nxos",
+        "cveId": null,
+        "psirtColdId": 283,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-zbfw",
+        "cveId": "CVE-2011-3273,CVE-2011-3281",
+        "psirtColdId": 291,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20111005-fwsm",
+        "cveId": "CVE-2011-3296,CVE-2011-3297,CVE-2011-3298,CVE-2011-3299,CVE-2011-3300,CVE-2011-3301,CVE-2011-3302,CVE-2011-3303",
+        "psirtColdId": 290,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-asr1000",
+        "cveId": "CVE-2013-1164,CVE-2013-1165,CVE-2013-1166,CVE-2013-1167,CVE-2013-2779",
+        "psirtColdId": 384,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130925-ipv6vfr",
+        "cveId": "CVE-2013-5474",
+        "psirtColdId": 404,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130327-nat",
+        "cveId": "CVE-2013-1142",
+        "psirtColdId": 345,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-fwsm",
+        "cveId": "CVE-2013-1149,CVE-2013-1155",
+        "psirtColdId": 368,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130801-lsaospf",
+        "cveId": "CVE-2013-0149",
+        "psirtColdId": 393,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-fwsm",
+        "cveId": "CVE-2013-5506,CVE-2013-5508",
+        "psirtColdId": 410,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-asa",
+        "cveId": "CVE-2013-3415,CVE-2013-5507,CVE-2013-5508,CVE-2013-5509,CVE-2013-5510,CVE-2013-5511,CVE-2013-5512,CVE-2013-5513,CVE-2013-5515,CVE-2013-5542",
+        "psirtColdId": 420,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140326-ikev2",
+        "cveId": "CVE-2014-2108",
+        "psirtColdId": 430,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130925-nat",
+        "cveId": "CVE-2013-5479,CVE-2013-5480,CVE-2013-5481",
+        "psirtColdId": 407,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140924-dhcpv6",
+        "cveId": "CVE-2014-3359",
+        "psirtColdId": 497,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140409-heartbleed",
+        "cveId": "CVE-2014-0160",
+        "psirtColdId": 475,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140924-sip",
+        "cveId": "CVE-2014-3360",
+        "psirtColdId": 496,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 511,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 506,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 514,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-cip",
+        "cveId": "CVE-2015-0647,CVE-2015-0648,CVE-2015-0649",
+        "psirtColdId": 535,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150408-asa",
+        "cveId": "CVE-2015-0675,CVE-2015-0676,CVE-2015-0677",
+        "psirtColdId": 548,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-ikev2",
+        "cveId": "CVE-2015-0642,CVE-2015-0643",
+        "psirtColdId": 537,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160302-n3k",
+        "cveId": "CVE-2016-1329",
+        "psirtColdId": 588,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151021-asa-dhcp1",
+        "cveId": "CVE-2015-6324",
+        "psirtColdId": 576,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-sip",
+        "cveId": "CVE-2016-1350",
+        "psirtColdId": 602,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-msdp",
+        "cveId": "CVE-2016-6382,CVE-2016-6392",
+        "psirtColdId": 644,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100217-asa",
+        "cveId": "CVE-2010-0149,CVE-2010-0150,CVE-2010-0151,CVE-2010-0565,CVE-2010-0566,CVE-2010-0567,CVE-2010-0568,CVE-2010-0569",
+        "psirtColdId": 212,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-iosfw",
+        "cveId": "CVE-2008-3812",
+        "psirtColdId": 146,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160525-ipv6",
+        "cveId": "CVE-2016-1409",
+        "psirtColdId": 638,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160916-ikev1",
+        "cveId": "CVE-2016-6415",
+        "psirtColdId": 655,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161019-asa-idfw",
+        "cveId": "CVE-2016-6432",
+        "psirtColdId": 664,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170726-aniacp",
+        "cveId": "CVE-2017-6665",
+        "psirtColdId": 703,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-sip",
+        "cveId": "CVE-2010-0579,CVE-2010-0580,CVE-2010-0581",
+        "psirtColdId": 226,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090325-ip",
+        "cveId": "CVE-2009-0630",
+        "psirtColdId": 165,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 84,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 89,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 91,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080326-pptp",
+        "cveId": "CVE-2008-1150,CVE-2008-1151",
+        "psirtColdId": 105,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080610-snmpv3",
+        "cveId": "CVE-2008-0960",
+        "psirtColdId": 133,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170726-anidos",
+        "cveId": "CVE-2017-6663",
+        "psirtColdId": 704,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170322-ztp",
+        "cveId": "CVE-2017-3859",
+        "psirtColdId": 677,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170419-asa-dns",
+        "cveId": "CVE-2017-6607",
+        "psirtColdId": 686,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170419-asa-xauth",
+        "cveId": "CVE-2017-6610",
+        "psirtColdId": 684,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090325-tcp",
+        "cveId": "CVE-2009-0629",
+        "psirtColdId": 167,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 516,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-ipv6",
+        "cveId": "CVE-2011-0944",
+        "psirtColdId": 269,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-c10k",
+        "cveId": "CVE-2011-3270",
+        "psirtColdId": 304,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-ipv6mpls",
+        "cveId": "CVE-2011-3274,CVE-2011-3282",
+        "psirtColdId": 303,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-ldp",
+        "cveId": "CVE-2010-0576",
+        "psirtColdId": 222,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100804-fwsm",
+        "cveId": "CVE-2010-2818,CVE-2010-2819,CVE-2010-2820,CVE-2010-2821",
+        "psirtColdId": 233,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-fwsm",
+        "cveId": "CVE-2013-1149,CVE-2013-1155",
+        "psirtColdId": 369,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130801-lsaospf",
+        "cveId": "CVE-2013-0149",
+        "psirtColdId": 396,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-fwsm",
+        "cveId": "CVE-2013-5506,CVE-2013-5508",
+        "psirtColdId": 409,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-asa",
+        "cveId": "CVE-2013-3415,CVE-2013-5507,CVE-2013-5508,CVE-2013-5509,CVE-2013-5510,CVE-2013-5511,CVE-2013-5512,CVE-2013-5513,CVE-2013-5515,CVE-2013-5542",
+        "psirtColdId": 413,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-asa",
+        "cveId": "CVE-2013-3415,CVE-2013-5507,CVE-2013-5508,CVE-2013-5509,CVE-2013-5510,CVE-2013-5511,CVE-2013-5512,CVE-2013-5513,CVE-2013-5515,CVE-2013-5542",
+        "psirtColdId": 414,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-asa",
+        "cveId": "CVE-2013-3415,CVE-2013-5507,CVE-2013-5508,CVE-2013-5509,CVE-2013-5510,CVE-2013-5511,CVE-2013-5512,CVE-2013-5513,CVE-2013-5515,CVE-2013-5542",
+        "psirtColdId": 415,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-asa",
+        "cveId": "CVE-2013-3415,CVE-2013-5507,CVE-2013-5508,CVE-2013-5509,CVE-2013-5510,CVE-2013-5511,CVE-2013-5512,CVE-2013-5513,CVE-2013-5515,CVE-2013-5542",
+        "psirtColdId": 419,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150128-ghost",
+        "cveId": "CVE-2015-0235",
+        "psirtColdId": 529,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-ikev2",
+        "cveId": "CVE-2015-0642,CVE-2015-0643",
+        "psirtColdId": 536,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-msdp",
+        "cveId": "CVE-2016-6382,CVE-2016-6392",
+        "psirtColdId": 645,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-asa",
+        "cveId": "CVE-2013-3415,CVE-2013-5507,CVE-2013-5508,CVE-2013-5509,CVE-2013-5510,CVE-2013-5511,CVE-2013-5512,CVE-2013-5513,CVE-2013-5515,CVE-2013-5542",
+        "psirtColdId": 412,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131009-asa",
+        "cveId": "CVE-2013-3415,CVE-2013-5507,CVE-2013-5508,CVE-2013-5509,CVE-2013-5510,CVE-2013-5511,CVE-2013-5512,CVE-2013-5513,CVE-2013-5515,CVE-2013-5542",
+        "psirtColdId": 417,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090325-ctcp",
+        "cveId": "CVE-2009-0635",
+        "psirtColdId": 170,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-sip",
+        "cveId": "CVE-2011-0939,CVE-2011-2072,CVE-2011-3275",
+        "psirtColdId": 308,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-vpn",
+        "cveId": "CVE-2008-3803",
+        "psirtColdId": 100,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-iosxe",
+        "cveId": "CVE-2015-0639,CVE-2015-0640,CVE-2015-0641,CVE-2015-0644,CVE-2015-0645",
+        "psirtColdId": 540,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-tcp",
+        "cveId": "CVE-2010-0577",
+        "psirtColdId": 218,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090325-mobileip",
+        "cveId": "CVE-2009-0633,CVE-2009-0634",
+        "psirtColdId": 166,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090923-tunnels",
+        "cveId": "CVE-2009-2872,CVE-2009-2873",
+        "psirtColdId": 205,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170726-anicrl",
+        "cveId": "CVE-2017-6664",
+        "psirtColdId": 701,
+        "sir": "Medium"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20130410-asr1000",
+        "cveId": "CVE-2013-1164,CVE-2013-1165,CVE-2013-1166,CVE-2013-1167,CVE-2013-2779",
+        "psirtColdId": 386,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090325-sip",
+        "cveId": "CVE-2009-0636",
+        "psirtColdId": 169,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090325-udp",
+        "cveId": "CVE-2009-0631",
+        "psirtColdId": 168,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-smi",
+        "cveId": "CVE-2016-1349",
+        "psirtColdId": 598,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-mfi",
+        "cveId": "CVE-2008-3804",
+        "psirtColdId": 150,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-ssl",
+        "cveId": "CVE-2008-3798",
+        "psirtColdId": 152,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-IPv6-leak",
+        "cveId": "CVE-2007-4285",
+        "psirtColdId": 94,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-multicast",
+        "cveId": "CVE-2008-3808,CVE-2008-3809",
+        "psirtColdId": 141,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-cip",
+        "cveId": "CVE-2015-0647,CVE-2015-0648,CVE-2015-0649",
+        "psirtColdId": 534,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20111005-fwsm",
+        "cveId": "CVE-2011-3296,CVE-2011-3297,CVE-2011-3298,CVE-2011-3299,CVE-2011-3300,CVE-2011-3301,CVE-2011-3302,CVE-2011-3303",
+        "psirtColdId": 312,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 87,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100324-cucme",
+        "cveId": "CVE-2010-0585,CVE-2010-0586",
+        "psirtColdId": 219,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080326-dlsw",
+        "cveId": "CVE-2007-0199,CVE-2008-1152",
+        "psirtColdId": 107,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 99,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20070808-IOS-voice",
+        "cveId": "CVE-2007-4291,CVE-2007-4292,CVE-2007-4294,CVE-2007-4295",
+        "psirtColdId": 86,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-dlsw",
+        "cveId": "CVE-2011-0945",
+        "psirtColdId": 270,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080326-mvpn",
+        "cveId": "CVE-2008-1156",
+        "psirtColdId": 104,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-sip",
+        "cveId": "CVE-2008-3799,CVE-2008-3800,CVE-2008-3801,CVE-2008-3802",
+        "psirtColdId": 147,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-iosips",
+        "cveId": "CVE-2008-2739",
+        "psirtColdId": 151,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161005-dhcp1",
+        "cveId": "CVE-2015-6392",
+        "psirtColdId": 657,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-l2tp",
+        "cveId": "CVE-2008-3813",
+        "psirtColdId": 149,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20121010-asa",
+        "cveId": "CVE-2012-4643,CVE-2012-4659,CVE-2012-4660,CVE-2012-4661,CVE-2012-4662,CVE-2012-4663",
+        "psirtColdId": 343,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20100922-nat",
+        "cveId": "CVE-2010-2831,CVE-2010-2832,CVE-2010-2833",
+        "psirtColdId": 250,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 505,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20080924-sccp",
+        "cveId": "CVE-2008-3810,CVE-2008-3811",
+        "psirtColdId": 153,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 513,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-zbfw",
+        "cveId": "CVE-2011-3273,CVE-2011-3281",
+        "psirtColdId": 301,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20090325-scp",
+        "cveId": "CVE-2009-0637",
+        "psirtColdId": 164,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170405-wlc3",
+        "cveId": "CVE-2017-3832",
+        "psirtColdId": 710,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-dhcp",
+        "cveId": "CVE-2017-12240",
+        "psirtColdId": 732,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-cc",
+        "cveId": "CVE-2017-12239",
+        "psirtColdId": 742,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-restapi",
+        "cveId": "CVE-2017-12229",
+        "psirtColdId": 745,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-lisp",
+        "cveId": "CVE-2017-12236",
+        "psirtColdId": 741,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-vpls",
+        "cveId": "CVE-2017-12238",
+        "psirtColdId": 728,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-ike",
+        "cveId": "CVE-2017-12237",
+        "psirtColdId": 740,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-ios-xe",
+        "cveId": "CVE-2017-12222",
+        "psirtColdId": 743,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-pnp",
+        "cveId": "CVE-2017-12228",
+        "psirtColdId": 739,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-cip",
+        "cveId": "CVE-2017-12233,CVE-2017-12234",
+        "psirtColdId": 729,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-ngwc",
+        "cveId": "CVE-2017-12226",
+        "psirtColdId": 730,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-rbip-dos",
+        "cveId": "CVE-2017-12232",
+        "psirtColdId": 731,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-nat",
+        "cveId": "CVE-2017-12231",
+        "psirtColdId": 733,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-privesc",
+        "cveId": "CVE-2017-12230",
+        "psirtColdId": 744,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171004-asa",
+        "cveId": "CVE-2017-12246",
+        "psirtColdId": 734,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170405-ame",
+        "cveId": "CVE-2017-3834",
+        "psirtColdId": 718,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170927-profinet",
+        "cveId": "CVE-2017-12235",
+        "psirtColdId": 727,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170315-wlc-mesh",
+        "cveId": "CVE-2017-3854",
+        "psirtColdId": 715,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170405-wlc",
+        "cveId": "CVE-2016-9194",
+        "psirtColdId": 716,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170315-ap1800",
+        "cveId": "CVE-2017-3831",
+        "psirtColdId": 719,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170405-wlc2",
+        "cveId": "CVE-2016-9219",
+        "psirtColdId": 717,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170503-cme",
+        "cveId": "CVE-2017-3873",
+        "psirtColdId": 720,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171018-aaavty",
+        "cveId": "CVE-2017-3883",
+        "psirtColdId": 749,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171101-wlc1",
+        "cveId": "CVE-2017-12278",
+        "psirtColdId": 756,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171101-wlc2",
+        "cveId": "CVE-2017-12275",
+        "psirtColdId": 757,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171101-aironet2",
+        "cveId": "CVE-2017-12274",
+        "psirtColdId": 763,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171101-aironet1",
+        "cveId": "CVE-2017-12273",
+        "psirtColdId": 762,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171016-wpa",
+        "cveId": "CVE-2017-13077,CVE-2017-13078,CVE-2017-13079,CVE-2017-13080,CVE-2017-13081,CVE-2017-13082,CVE-2017-13084,CVE-2017-13086,CVE-2017-13087,CVE-2017-13088",
+        "psirtColdId": 761,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160120-ucsm",
+        "cveId": "CVE-2015-6435",
+        "psirtColdId": 712,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180117-nx-os",
+        "cveId": "CVE-2018-0102",
+        "psirtColdId": 802,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180131-ipv6",
+        "cveId": "CVE-2018-0136",
+        "psirtColdId": 879,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180129-asa1",
+        "cveId": "CVE-2018-0101",
+        "psirtColdId": 881,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170419-energywise",
+        "cveId": "CVE-2017-3860,CVE-2017-3861,CVE-2017-3862,CVE-2017-3863",
+        "psirtColdId": 883,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-igmp",
+        "cveId": "CVE-2018-0165",
+        "psirtColdId": 925,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-ipv4",
+        "cveId": "CVE-2018-0177",
+        "psirtColdId": 934,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-ike",
+        "cveId": "CVE-2018-0158",
+        "psirtColdId": 918,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-opendns-dos",
+        "cveId": "CVE-2018-0170",
+        "psirtColdId": 924,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-dos",
+        "cveId": "CVE-2018-0154",
+        "psirtColdId": 932,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-fwip",
+        "cveId": "CVE-2018-0157",
+        "psirtColdId": 933,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-xepriv",
+        "cveId": "CVE-2018-0152",
+        "psirtColdId": 928,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-privesc1",
+        "cveId": "CVE-2018-0169,CVE-2018-0176",
+        "psirtColdId": 910,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-qos",
+        "cveId": "CVE-2018-0151",
+        "psirtColdId": 930,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-bfd",
+        "cveId": "CVE-2018-0155",
+        "psirtColdId": 906,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-smi",
+        "cveId": "CVE-2018-0156",
+        "psirtColdId": 912,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-xesc",
+        "cveId": "CVE-2018-0150",
+        "psirtColdId": 923,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-snmp",
+        "cveId": "CVE-2018-0161",
+        "psirtColdId": 935,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-ike-dos",
+        "cveId": "CVE-2018-0159",
+        "psirtColdId": 929,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-lldp",
+        "cveId": "CVE-2018-0167,CVE-2018-0175",
+        "psirtColdId": 936,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-smi2",
+        "cveId": "CVE-2018-0171",
+        "psirtColdId": 913,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-snmp-dos",
+        "cveId": "CVE-2018-0160",
+        "psirtColdId": 914,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-dhcpr1",
+        "cveId": "CVE-2018-0172",
+        "psirtColdId": 907,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-dhcpr2",
+        "cveId": "CVE-2018-0173",
+        "psirtColdId": 908,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-dhcpr3",
+        "cveId": "CVE-2018-0174",
+        "psirtColdId": 909,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nxossnmp",
+        "cveId": "CVE-2018-0291",
+        "psirtColdId": 1016,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-fx-os-fabric-execution",
+        "cveId": "CVE-2018-0314",
+        "psirtColdId": 1018,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nxosadmin",
+        "cveId": "CVE-2018-0294",
+        "psirtColdId": 1013,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-asa_inspect",
+        "cveId": "CVE-2018-0240",
+        "psirtColdId": 950,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-asa2",
+        "cveId": "CVE-2018-0228",
+        "psirtColdId": 939,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-asa1",
+        "cveId": "CVE-2018-0227",
+        "psirtColdId": 938,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-asa3",
+        "cveId": "CVE-2018-0231",
+        "psirtColdId": 940,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-asaanyconnect",
+        "cveId": "CVE-2018-0229",
+        "psirtColdId": 941,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-iosxr",
+        "cveId": "CVE-2018-0241",
+        "psirtColdId": 943,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180502-wlc-ip",
+        "cveId": "CVE-2018-0252",
+        "psirtColdId": 958,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180502-aironet-ssh",
+        "cveId": "CVE-2018-0226",
+        "psirtColdId": 956,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180502-wlc-mfdos",
+        "cveId": "CVE-2018-0235",
+        "psirtColdId": 959,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180606-asaftd",
+        "cveId": "CVE-2018-0296",
+        "psirtColdId": 970,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180606-aaa",
+        "cveId": "CVE-2018-0315",
+        "psirtColdId": 971,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170419-cimc",
+        "cveId": "CVE-2017-6619",
+        "psirtColdId": 758,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170419-cimc3",
+        "cveId": "CVE-2017-6616",
+        "psirtColdId": 759,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-n3k-n9k-clisnmp",
+        "cveId": "CVE-2018-0309",
+        "psirtColdId": 986,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-fxos-dos",
+        "cveId": "CVE-2018-0298",
+        "psirtColdId": 1002,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nx-os-cli-injection",
+        "cveId": "CVE-2018-0307",
+        "psirtColdId": 990,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nxos-nxapi",
+        "cveId": "CVE-2018-0330",
+        "psirtColdId": 995,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nxos-bo",
+        "cveId": "CVE-2018-0301",
+        "psirtColdId": 1003,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nxosrbac",
+        "cveId": "CVE-2018-0293",
+        "psirtColdId": 999,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nx-os-fabric-services-dos",
+        "cveId": "CVE-2018-0311",
+        "psirtColdId": 1011,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-n4k-snmp-dos",
+        "cveId": "CVE-2018-0299",
+        "psirtColdId": 987,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-fxos-ace",
+        "cveId": "CVE-2018-0302",
+        "psirtColdId": 1001,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nxos-cdp",
+        "cveId": "CVE-2018-0331",
+        "psirtColdId": 1014,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nx-os-api-execution",
+        "cveId": "CVE-2018-0313",
+        "psirtColdId": 988,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-fxnxos-ace",
+        "cveId": "CVE-2018-0304",
+        "psirtColdId": 1019,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-fxnxos-dos",
+        "cveId": "CVE-2018-0303",
+        "psirtColdId": 1020,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-fx-os-cli-execution",
+        "cveId": "CVE-2018-0312",
+        "psirtColdId": 1015,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nxosbgp",
+        "cveId": "CVE-2018-0295",
+        "psirtColdId": 997,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-fx-os-fabric-dos",
+        "cveId": "CVE-2018-0305",
+        "psirtColdId": 1022,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nx-os-cli-execution",
+        "cveId": "CVE-2018-0306",
+        "psirtColdId": 989,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nxosigmp",
+        "cveId": "CVE-2018-0292",
+        "psirtColdId": 998,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nx-os-fabric-dos",
+        "cveId": "CVE-2018-0310",
+        "psirtColdId": 1021,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-fxnxos-fab-ace",
+        "cveId": "CVE-2018-0308",
+        "psirtColdId": 1017,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-20180718-nexus-9000-dos",
+        "cveId": "CVE-2018-0372",
+        "psirtColdId": 1029,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180905-cimc-injection",
+        "cveId": "CVE-2018-0430,CVE-2018-0431",
+        "psirtColdId": 1035,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-webuidos",
+        "cveId": "CVE-2018-0469",
+        "psirtColdId": 1046,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-ptp",
+        "cveId": "CVE-2018-0473",
+        "psirtColdId": 1044,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-sm1t3e3",
+        "cveId": "CVE-2018-0485",
+        "psirtColdId": 1071,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-sip-alg",
+        "cveId": "CVE-2018-0476",
+        "psirtColdId": 1053,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-ospfv3-dos",
+        "cveId": "CVE-2018-0466",
+        "psirtColdId": 1072,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-cmp",
+        "cveId": "CVE-2018-0475",
+        "psirtColdId": 1074,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-ipsec",
+        "cveId": "CVE-2018-0472",
+        "psirtColdId": 1073,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-iosxe-cmdinj",
+        "cveId": "CVE-2018-0477,CVE-2018-0481",
+        "psirtColdId": 1039,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-ipv6hbh",
+        "cveId": "CVE-2018-0467",
+        "psirtColdId": 1070,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-webdos",
+        "cveId": "CVE-2018-0470",
+        "psirtColdId": 1045,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-errdisable",
+        "cveId": "CVE-2018-0480",
+        "psirtColdId": 1038,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180926-cdp-memleak",
+        "cveId": "CVE-2018-0471",
+        "psirtColdId": 1064,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181003-ftd-inspect-dos",
+        "cveId": "CVE-2018-15390",
+        "psirtColdId": 1056,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181003-asa-dma-dos",
+        "cveId": "CVE-2018-15383",
+        "psirtColdId": 1077,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-asaanyconnect",
+        "cveId": "CVE-2018-0229",
+        "psirtColdId": 1024,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-nxos-snmp",
+        "cveId": "CVE-2018-0456",
+        "psirtColdId": 1103,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-nexus-ptp-dos",
+        "cveId": "CVE-2018-0378",
+        "psirtColdId": 1097,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-fxnx-os-dos",
+        "cveId": "CVE-2018-0395",
+        "psirtColdId": 1109,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-ap-ft-dos",
+        "cveId": "CVE-2018-0441",
+        "psirtColdId": 1096,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-wlc-capwap-memory-leak",
+        "cveId": "CVE-2018-0442",
+        "psirtColdId": 1099,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-wlc-capwap-dos",
+        "cveId": "CVE-2018-0443",
+        "psirtColdId": 1104,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-wlc-gui-privesc",
+        "cveId": "CVE-2018-0417",
+        "psirtColdId": 1102,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170802-ise",
+        "cveId": "CVE-2017-6747",
+        "psirtColdId": 1081,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160113-ise",
+        "cveId": "CVE-2015-6323",
+        "psirtColdId": 1080,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180606-asaftd",
+        "cveId": "CVE-2018-0296",
+        "psirtColdId": 1026,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181031-asaftd-sip-dos",
+        "cveId": "CVE-2018-15454",
+        "psirtColdId": 1114,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180824-linux-ip-fragment",
+        "cveId": "CVE-2018-5391",
+        "psirtColdId": 1117,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181219-asa-privesc",
+        "cveId": "CVE-2018-15465",
+        "psirtColdId": 1129,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181101-ap",
+        "cveId": "CVE-2018-16986",
+        "psirtColdId": 1116,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190220-ncs",
+        "cveId": "CVE-2019-1681",
+        "psirtColdId": 1205,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-escalation",
+        "cveId": "CVE-2019-1602",
+        "psirtColdId": 1151,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-tetra-ace",
+        "cveId": "CVE-2019-1618",
+        "psirtColdId": 1157,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-directory",
+        "cveId": "CVE-2019-1600",
+        "psirtColdId": 1160,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-privesc",
+        "cveId": "CVE-2019-1603",
+        "psirtColdId": 1154,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-npv-dos",
+        "cveId": "CVE-2019-1617",
+        "psirtColdId": 1171,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-file-access",
+        "cveId": "CVE-2019-1601",
+        "psirtColdId": 1152,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-aci-shell-escape",
+        "cveId": "CVE-2019-1591",
+        "psirtColdId": 1190,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-NXAPI-cmdinj",
+        "cveId": "CVE-2019-1614",
+        "psirtColdId": 1145,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-cmdinj-1612",
+        "cveId": "CVE-2019-1612",
+        "psirtColdId": 1201,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nx-os-lan-auth",
+        "cveId": "CVE-2019-1594",
+        "psirtColdId": 1244,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-sig-verif",
+        "cveId": "CVE-2019-1615",
+        "psirtColdId": 1245,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nx-os-bash-escal",
+        "cveId": "CVE-2019-1593",
+        "psirtColdId": 1243,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-pe",
+        "cveId": "CVE-2019-1596",
+        "psirtColdId": 1153,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-cmdinj-1608",
+        "cveId": "CVE-2019-1608",
+        "psirtColdId": 1193,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-cmdinj-1607",
+        "cveId": "CVE-2019-1607",
+        "psirtColdId": 1192,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-cmdinj-1609",
+        "cveId": "CVE-2019-1609",
+        "psirtColdId": 1195,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-fabric-dos",
+        "cveId": "CVE-2019-1616",
+        "psirtColdId": 1232,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxosldap",
+        "cveId": "CVE-2019-1597,CVE-2019-1598",
+        "psirtColdId": 1234,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-cmdinj-1610",
+        "cveId": "CVE-2019-1610",
+        "psirtColdId": 1196,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-cmdinj-1613",
+        "cveId": "CVE-2019-1613",
+        "psirtColdId": 1202,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-netstack",
+        "cveId": "CVE-2019-1599",
+        "psirtColdId": 1242,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-cmdinj-1606",
+        "cveId": "CVE-2019-1606",
+        "psirtColdId": 1194,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-cmdinj-1611",
+        "cveId": "CVE-2019-1611",
+        "psirtColdId": 1198,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nx-os-api-ex",
+        "cveId": "CVE-2019-1605",
+        "psirtColdId": 1158,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-privesca",
+        "cveId": "CVE-2019-1604",
+        "psirtColdId": 1155,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-xeid",
+        "cveId": "CVE-2019-1742",
+        "psirtColdId": 1215,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-iosxe-pe",
+        "cveId": "CVE-2019-1753",
+        "psirtColdId": 1275,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-afu",
+        "cveId": "CVE-2019-1743",
+        "psirtColdId": 1216,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-isdn",
+        "cveId": "CVE-2019-1752",
+        "psirtColdId": 1286,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-rsp3-ospf",
+        "cveId": "CVE-2019-1749",
+        "psirtColdId": 1212,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-xecmd",
+        "cveId": "CVE-2019-1745",
+        "psirtColdId": 1214,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-nat64",
+        "cveId": "CVE-2019-1751",
+        "psirtColdId": 1285,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-eta-dos",
+        "cveId": "CVE-2019-1741",
+        "psirtColdId": 1218,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-ipsla-dos",
+        "cveId": "CVE-2019-1737",
+        "psirtColdId": 1295,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-pnp-cert",
+        "cveId": "CVE-2019-1748",
+        "psirtColdId": 1284,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-iosxe-privesc",
+        "cveId": "CVE-2019-1754",
+        "psirtColdId": 1276,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-iosxe-cmdinj",
+        "cveId": "CVE-2019-1755",
+        "psirtColdId": 1220,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-iosxe-cmdinject",
+        "cveId": "CVE-2019-1756",
+        "psirtColdId": 1274,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-sms-dos",
+        "cveId": "CVE-2019-1747",
+        "psirtColdId": 1296,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-nbar",
+        "cveId": "CVE-2019-1738,CVE-2019-1739,CVE-2019-1740",
+        "psirtColdId": 1287,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-cmp-dos",
+        "cveId": "CVE-2019-1746",
+        "psirtColdId": 1292,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190327-evss",
+        "cveId": "CVE-2019-1750",
+        "psirtColdId": 1219,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190417-asr9k-exr",
+        "cveId": "CVE-2019-1710",
+        "psirtColdId": 1291,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190417-wlc-csrf",
+        "cveId": "CVE-2019-1797",
+        "psirtColdId": 1278,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190417-wlc-gui",
+        "cveId": "CVE-2018-0248",
+        "psirtColdId": 1300,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190417-wlc-iapp",
+        "cveId": "CVE-2019-1796,CVE-2019-1799,CVE-2019-1800",
+        "psirtColdId": 1279,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asa-ftd-entropy",
+        "cveId": "CVE-2019-1715",
+        "psirtColdId": 1317,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asa-ipsec-dos",
+        "cveId": "CVE-2019-1706",
+        "psirtColdId": 1392,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asa-csrf",
+        "cveId": "CVE-2019-1713",
+        "psirtColdId": 1314,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asa-ftd-entropy",
+        "cveId": "CVE-2019-1715",
+        "psirtColdId": 1318,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-frpwr-smb-snort",
+        "cveId": "CVE-2019-1696,CVE-2019-1704",
+        "psirtColdId": 1322,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asa-ftd-ike-dos",
+        "cveId": "CVE-2019-1708",
+        "psirtColdId": 1387,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-nexus9k-sshkey",
+        "cveId": "CVE-2019-1804",
+        "psirtColdId": 1294,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-aci-hw-clock-util",
+        "cveId": "CVE-2019-1592",
+        "psirtColdId": 1303,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-aci-insecure-fabric",
+        "cveId": "CVE-2019-1590",
+        "psirtColdId": 1304,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-nexus9k-rpe",
+        "cveId": "CVE-2019-1803",
+        "psirtColdId": 1336,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-apic-priv-escalation",
+        "cveId": "CVE-2019-1682",
+        "psirtColdId": 1341,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asaftd-saml-vpn",
+        "cveId": "CVE-2019-1714",
+        "psirtColdId": 1319,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asaftd-saml-vpn",
+        "cveId": "CVE-2019-1714",
+        "psirtColdId": 1320,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-sd-cpu-dos",
+        "cveId": "CVE-2018-15388",
+        "psirtColdId": 1337,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-frpwr-dos",
+        "cveId": "CVE-2019-1703",
+        "psirtColdId": 1308,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asa-ftd-dos",
+        "cveId": "CVE-2019-1693",
+        "psirtColdId": 1315,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asa-ftd-ike-dos",
+        "cveId": "CVE-2019-1708",
+        "psirtColdId": 1388,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-firepower-dos",
+        "cveId": "CVE-2018-15462",
+        "psirtColdId": 1321,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asa-frpwrtd-dos",
+        "cveId": "CVE-2019-1694",
+        "psirtColdId": 1393,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asa-frpwrtd-dos",
+        "cveId": "CVE-2019-1694",
+        "psirtColdId": 1394,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-asa-ftd-dos",
+        "cveId": "CVE-2019-1693",
+        "psirtColdId": 1316,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-sd-cpu-dos",
+        "cveId": "CVE-2018-15388",
+        "psirtColdId": 1338,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190515-iosxr-evpn-dos",
+        "cveId": "CVE-2019-1849",
+        "psirtColdId": 1385,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190515-iosxr-mpls-dos",
+        "cveId": "CVE-2019-1846",
+        "psirtColdId": 1386,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190515-nxos-snmp-dos",
+        "cveId": "CVE-2019-1858",
+        "psirtColdId": 1409,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190513-webui",
+        "cveId": "CVE-2019-1862",
+        "psirtColdId": 1411,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190513-secureboot",
+        "cveId": "CVE-2019-1649",
+        "psirtColdId": 1416,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190612-iosxe-csrf",
+        "cveId": "CVE-2019-1904",
+        "psirtColdId": 1429,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190703-ccapic-restapi",
+        "cveId": "CVE-2019-1889",
+        "psirtColdId": 1427,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190703-n9kaci-bypass",
+        "cveId": "CVE-2019-1890",
+        "psirtColdId": 1434,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190717-aironet-dos",
+        "cveId": "CVE-2019-1920",
+        "psirtColdId": 1431,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190731-nxos-bo",
+        "cveId": "CVE-2019-1901",
+        "psirtColdId": 1441,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190807-iosxr-isis-dos-1910",
+        "cveId": "CVE-2019-1910",
+        "psirtColdId": 1472,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190807-iosxr-isis-dos-1918",
+        "cveId": "CVE-2019-1918",
+        "psirtColdId": 1473,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190710-asa-ftd-dos",
+        "cveId": "CVE-2019-1873",
+        "psirtColdId": 1446,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190710-asa-ftd-dos",
+        "cveId": "CVE-2019-1873",
+        "psirtColdId": 1447,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190807-asa-privescala",
+        "cveId": "CVE-2019-1934",
+        "psirtColdId": 1442,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190821-imc-bo",
+        "cveId": "CVE-2019-1871",
+        "psirtColdId": 1453,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190821-cimc-cli-inject",
+        "cveId": "CVE-2019-1883",
+        "psirtColdId": 1452,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190821-imc-dos",
+        "cveId": "CVE-2019-1900",
+        "psirtColdId": 1470,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190828-ucs-privescalation",
+        "cveId": "CVE-2019-1966",
+        "psirtColdId": 1464,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190828-nxos-memleak-dos",
+        "cveId": "CVE-2019-1965",
+        "psirtColdId": 1494,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190828-fxnxos-snmp-dos",
+        "cveId": "CVE-2019-1963",
+        "psirtColdId": 1493,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190828-nxos-ipv6-dos",
+        "cveId": "CVE-2019-1964",
+        "psirtColdId": 1465,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190828-nxos-fsip-dos",
+        "cveId": "CVE-2019-1962",
+        "psirtColdId": 1505,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190828-iosxe-rest-auth-bypass",
+        "cveId": "CVE-2019-12643",
+        "psirtColdId": 1511,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-sip-alg",
+        "cveId": "CVE-2019-12646",
+        "psirtColdId": 1516,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-utd",
+        "cveId": "CVE-2019-12657",
+        "psirtColdId": 1508,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-iox",
+        "cveId": "CVE-2019-12656",
+        "psirtColdId": 1503,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-ios-gos-auth",
+        "cveId": "CVE-2019-12648",
+        "psirtColdId": 1495,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-cat4000-tcp-dos",
+        "cveId": "CVE-2019-12652",
+        "psirtColdId": 1510,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-ftp",
+        "cveId": "CVE-2019-12655",
+        "psirtColdId": 1504,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-webui-cmd-injection",
+        "cveId": "CVE-2019-12650,CVE-2019-12651",
+        "psirtColdId": 1497,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-iosxe-digsig-bypass",
+        "cveId": "CVE-2019-12649",
+        "psirtColdId": 1546,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-iosxe-fsdos",
+        "cveId": "CVE-2019-12658",
+        "psirtColdId": 1496,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-identd-dos",
+        "cveId": "CVE-2019-12647",
+        "psirtColdId": 1570,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-sip-dos",
+        "cveId": "CVE-2019-12654",
+        "psirtColdId": 1569,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-rawtcp-dos",
+        "cveId": "CVE-2019-12653",
+        "psirtColdId": 1500,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-ftd-fpmc-dos",
+        "cveId": "CVE-2019-12700",
+        "psirtColdId": 1542,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-asa-dos",
+        "cveId": "CVE-2019-12673",
+        "psirtColdId": 1572,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-asa-ospf-lsa-dos",
+        "cveId": "CVE-2019-12676",
+        "psirtColdId": 1575,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171101-ise",
+        "cveId": "CVE-2017-12261",
+        "psirtColdId": 1082,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-asa-ftd-ikev1-dos",
+        "cveId": "CVE-2019-15256",
+        "psirtColdId": 1573,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-ftd-container-esc",
+        "cveId": "CVE-2019-12674,CVE-2019-12675",
+        "psirtColdId": 1541,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-asa-ssl-vpn-dos",
+        "cveId": "CVE-2019-12677",
+        "psirtColdId": 1548,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-asa-ftd-sip-dos",
+        "cveId": "CVE-2019-12678",
+        "psirtColdId": 1574,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191016-wlc-ssh-dos",
+        "cveId": "CVE-2019-15262",
+        "psirtColdId": 1568,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191016-airo-pptp-dos",
+        "cveId": "CVE-2019-15261",
+        "psirtColdId": 1564,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191016-airo-capwap-dos",
+        "cveId": "CVE-2019-15264",
+        "psirtColdId": 1560,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191016-airo-unauth-access",
+        "cveId": "CVE-2019-15260",
+        "psirtColdId": 1565,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191106-wlc-dos",
+        "cveId": "CVE-2019-15276",
+        "psirtColdId": 1578,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180516-iseeap",
+        "cveId": "CVE-2018-0277",
+        "psirtColdId": 1033,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191112-asa-ftd-lua-rce",
+        "cveId": "CVE-2019-15992",
+        "psirtColdId": 1641,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190417-aironet-shell",
+        "cveId": "CVE-2019-1654",
+        "psirtColdId": 1297,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200108-ios-csrf",
+        "cveId": "CVE-2019-16009",
+        "psirtColdId": 1648,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200122-ios-xr-evpn",
+        "cveId": "CVE-2019-16019,CVE-2019-16020,CVE-2019-16021,CVE-2019-16022,CVE-2019-16023",
+        "psirtColdId": 1649,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200122-ios-xr-routes",
+        "cveId": "CVE-2019-16018",
+        "psirtColdId": 1651,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200122-ios-xr-dos",
+        "cveId": "CVE-2019-16027",
+        "psirtColdId": 1645,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200205-fxnxos-iosxr-cdp-dos",
+        "cveId": "CVE-2020-3120",
+        "psirtColdId": 1678,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200205-iosxr-cdp-rce",
+        "cveId": "CVE-2020-3118",
+        "psirtColdId": 1656,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200205-nxos-cdp-rce",
+        "cveId": "CVE-2020-3119",
+        "psirtColdId": 1687,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200226-mds-ovrld-dos",
+        "cveId": "CVE-2020-3175",
+        "psirtColdId": 1679,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200226-fxos-nxos-cdp",
+        "cveId": "CVE-2020-3172",
+        "psirtColdId": 1696,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200226-nexus-1000v-dos",
+        "cveId": "CVE-2020-3168",
+        "psirtColdId": 1674,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200226-ucs-cli-cmdinj",
+        "cveId": "CVE-2020-3173",
+        "psirtColdId": 1684,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-dos-Rdpe34sd8",
+        "cveId": "CVE-2020-3189",
+        "psirtColdId": 1798,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-mgcp-SUqB8VKH",
+        "cveId": "CVE-2020-3254",
+        "psirtColdId": 1831,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-info-disclose-9eJtycMB",
+        "cveId": "CVE-2020-3259",
+        "psirtColdId": 1832,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-path-JE3azWw43",
+        "cveId": "CVE-2020-3187",
+        "psirtColdId": 1833,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-dos-2-sS2h7aWe",
+        "cveId": "CVE-2020-3179",
+        "psirtColdId": 1802,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-ospf-memleak-DHpsgfnv",
+        "cveId": "CVE-2020-3195",
+        "psirtColdId": 1830,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-tls-dos-4v5nmWtZ",
+        "cveId": "CVE-2020-3283",
+        "psirtColdId": 1758,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-dos-N2vQZASR",
+        "cveId": "CVE-2020-3255",
+        "psirtColdId": 1809,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-asa-kerberos-bypass-96Gghe2sS",
+        "cveId": "CVE-2020-3125",
+        "psirtColdId": 1788,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-airo-wpa-dos-5ZLs6ESz",
+        "cveId": "CVE-2020-3260",
+        "psirtColdId": 1784,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-gas-dos-8FsE3AWH",
+        "cveId": "CVE-2020-3273",
+        "psirtColdId": 1786,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-capwap-dos-Y2sD9uEw",
+        "cveId": "CVE-2020-3262",
+        "psirtColdId": 1778,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-mob-exp-csrf-b8tFec24",
+        "cveId": "CVE-2020-3261",
+        "psirtColdId": 1785,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180502-ap-ptp",
+        "cveId": "CVE-2018-0234",
+        "psirtColdId": 957,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20150325-ani",
+        "cveId": "CVE-2015-0635,CVE-2015-0636,CVE-2015-0637",
+        "psirtColdId": 1813,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20131023-ise",
+        "cveId": "CVE-2013-5530,CVE-2013-5531",
+        "psirtColdId": 1083,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190123-ise-privilege",
+        "cveId": "CVE-2018-15459",
+        "psirtColdId": 1134,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200226-fxos-ucs-cmdinj",
+        "cveId": "CVE-2020-3167",
+        "psirtColdId": 1819,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sd-wan-cred-EVGSF259",
+        "cveId": "CVE-2019-1950",
+        "psirtColdId": 1818,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161005-nxaaa",
+        "cveId": "CVE-2015-0721",
+        "psirtColdId": 1842,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-ir800-img-verif-wHhLYHjK",
+        "cveId": "CVE-2020-3208",
+        "psirtColdId": 1875,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sip-Cv28sQw2",
+        "cveId": "CVE-2020-3226",
+        "psirtColdId": 1880,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webui-PZgQxjfG",
+        "cveId": "CVE-2020-3229",
+        "psirtColdId": 1871,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-ospf-dos-RhMQY8qx",
+        "cveId": "CVE-2020-3298",
+        "psirtColdId": 1834,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ssl-vpn-dos-qY7BHpjN",
+        "cveId": "CVE-2020-3196",
+        "psirtColdId": 1835,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-ipv6-67pA658k",
+        "cveId": "CVE-2020-3191",
+        "psirtColdId": 1836,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161005-dhcp2",
+        "cveId": "CVE-2015-6393",
+        "psirtColdId": 1841,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-ipip-dos-kCT9X4",
+        "cveId": "CVE-2020-10136",
+        "psirtColdId": 1853,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-web-cmdinj2-fOnjk2LD",
+        "cveId": "CVE-2020-3219",
+        "psirtColdId": 1855,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-web-cmdinj3-44st5CcA",
+        "cveId": "CVE-2020-3212",
+        "psirtColdId": 1856,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-web-cmdinj4-S2TmH7GA",
+        "cveId": "CVE-2020-3211",
+        "psirtColdId": 1857,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-rce-uk8BXcUD",
+        "cveId": "CVE-2020-3218",
+        "psirtColdId": 1854,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ngwc-cmdinj-KEwWVWR",
+        "cveId": "CVE-2020-3207",
+        "psirtColdId": 1868,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-iot-rce-xYRSeMNH",
+        "cveId": "CVE-2020-3198,CVE-2020-3258",
+        "psirtColdId": 1846,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-iot-gos-vuln-s9qS8kYL",
+        "cveId": "CVE-2020-3199,CVE-2020-3257",
+        "psirtColdId": 1847,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-iot-vds-cred-uPMp9zbY",
+        "cveId": "CVE-2020-3234",
+        "psirtColdId": 1866,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-iot-udp-vds-inj-f2D5Jzrt",
+        "cveId": "CVE-2020-3205",
+        "psirtColdId": 1874,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ssh-dos-Un22sd2A",
+        "cveId": "CVE-2020-3200",
+        "psirtColdId": 1881,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-ewlc-dos-TkuPVmZN",
+        "cveId": "CVE-2020-3203",
+        "psirtColdId": 1863,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webui-cmdinj-zM283Zdw",
+        "cveId": "CVE-2020-3224",
+        "psirtColdId": 1858,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-fnfv9-dos-HND6Fc9u",
+        "cveId": "CVE-2020-3221",
+        "psirtColdId": 1864,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ioxPE-KgGvCAf9",
+        "cveId": "CVE-2020-3227",
+        "psirtColdId": 1867,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-iot-vds-cmd-inj-VfJtqGhE",
+        "cveId": "CVE-2020-3210",
+        "psirtColdId": 1865,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-nxos-onepk-rce-6Hhyt4dC",
+        "cveId": "CVE-2020-3217",
+        "psirtColdId": 1883,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ikev2-9p23Jj2a",
+        "cveId": "CVE-2020-3230",
+        "psirtColdId": 1879,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-digsig-bypass-FYQ3bmVq",
+        "cveId": "CVE-2020-3209",
+        "psirtColdId": 1876,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cipdos-hkfTZXEx",
+        "cveId": "CVE-2020-3225",
+        "psirtColdId": 1884,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snmp-dos-USxSyTk5",
+        "cveId": "CVE-2020-3235",
+        "psirtColdId": 1882,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200226-fxos-ucs-cli-cmdinj",
+        "cveId": "CVE-2020-3171",
+        "psirtColdId": 1885,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160302-netstack",
+        "cveId": "CVE-2015-0718",
+        "psirtColdId": 1890,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-telnetd-EFJrEzPx",
+        "cveId": "CVE-2020-10188",
+        "psirtColdId": 1891,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-caf-3dXM8exv",
+        "cveId": "CVE-2020-3238",
+        "psirtColdId": 1894,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20051114-ipsec",
+        "cveId": "CVE-2005-3666,CVE-2005-3667,CVE-2005-3668,CVE-2005-3669,CVE-2005-3670,CVE-2005-3671,CVE-2005-3672,CVE-2005-3673,CVE-2005-3674,CVE-2005-3732,CVE-2005-3733,CVE-2005-3768,CVE-2005-3915,CVE-2005-3985,CVE-2005-4321,CVE-2005-4564,CVE-2005-4565,CVE-2005-4566,CVE-2005-4570,CVE-2006-0718,CVE-2006-1646",
+        "psirtColdId": 33,
+        "sir": null
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 512,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 515,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20141008-asa",
+        "cveId": "CVE-2014-3382,CVE-2014-3383,CVE-2014-3384,CVE-2014-3385,CVE-2014-3386,CVE-2014-3387,CVE-2014-3388,CVE-2014-3389,CVE-2014-3390,CVE-2014-3391,CVE-2014-3392,CVE-2014-3393,CVE-2014-3394",
+        "psirtColdId": 517,
+        "sir": "Critical"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-callhome-cmdinj-zkxzSCY",
+        "cveId": "CVE-2020-3454",
+        "psirtColdId": 1911,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n3n9k-priv-escal-3QhXJBC",
+        "cveId": "CVE-2020-3394",
+        "psirtColdId": 1906,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-ro-path-KJuQhB86",
+        "cveId": "CVE-2020-3452",
+        "psirtColdId": 1922,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-dme-rce-cbE3nhZS",
+        "cveId": "CVE-2020-3415",
+        "psirtColdId": 1925,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fxos-nxos-cfs-dos-dAmnymbd",
+        "cveId": "CVE-2020-3517",
+        "psirtColdId": 1924,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-pim-memleak-dos-tC8eP7uw",
+        "cveId": "CVE-2020-3338",
+        "psirtColdId": 1908,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxosbgp-mvpn-dos-K8kbCrJp",
+        "cveId": "CVE-2020-3398",
+        "psirtColdId": 1909,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxosbgp-nlri-dos-458rG2OQ",
+        "cveId": "CVE-2020-3397",
+        "psirtColdId": 1907,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-cli-privescl-sDVEmhqv",
+        "cveId": "CVE-2020-3530",
+        "psirtColdId": 1910,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-LJtNFjeN",
+        "cveId": "CVE-2020-3473",
+        "psirtColdId": 1923,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-dvmrp-memexh-dSmpdvfz",
+        "cveId": "CVE-2020-3566,CVE-2020-3569",
+        "psirtColdId": 1960,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ISR4461-gKKUROhx",
+        "cveId": "CVE-2020-3414",
+        "psirtColdId": 1949,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-profinet-dos-65qYG3W5",
+        "cveId": "CVE-2020-3512",
+        "psirtColdId": 1970,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-COPS-VLD-MpbTvGEW",
+        "cveId": "CVE-2020-3526",
+        "psirtColdId": 1931,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-webui-priv-esc-K8zvEWM",
+        "cveId": "CVE-2020-3141,CVE-2020-3425",
+        "psirtColdId": 1948,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipsla-jw2DJmSv",
+        "cveId": "CVE-2020-3422",
+        "psirtColdId": 1945,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-ewlc-snmp-dos-wNkedg9K",
+        "cveId": "CVE-2020-3390",
+        "psirtColdId": 1936,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-confacl-HbPtfSuO",
+        "cveId": "CVE-2020-3407",
+        "psirtColdId": 1943,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-isdn-q931-dos-67eUZBTf",
+        "cveId": "CVE-2020-3511",
+        "psirtColdId": 1982,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-capwap-dos-TPdNTdyq",
+        "cveId": "CVE-2020-3486,CVE-2020-3487,CVE-2020-3488,CVE-2020-3489,CVE-2020-3493,CVE-2020-3494,CVE-2020-3497",
+        "psirtColdId": 1929,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-capwap-dos-ShFzXf",
+        "cveId": "CVE-2020-3399",
+        "psirtColdId": 1935,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-dclass-dos-VKh9D8k3",
+        "cveId": "CVE-2020-3428",
+        "psirtColdId": 1939,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wpa-dos-cXshjerc",
+        "cveId": "CVE-2020-3429",
+        "psirtColdId": 1942,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-lpwa-access-cXsD7PRA",
+        "cveId": "CVE-2020-3426",
+        "psirtColdId": 1944,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esp20-arp-dos-GvHVggqJ",
+        "cveId": "CVE-2020-3508",
+        "psirtColdId": 1950,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-rsp3-rce-jVHg8Z7c",
+        "cveId": "CVE-2020-3416,CVE-2020-3513",
+        "psirtColdId": 1951,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-le-drTOB625",
+        "cveId": "CVE-2020-3465",
+        "psirtColdId": 1952,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-xbace-OnCEbyS",
+        "cveId": "CVE-2020-3417",
+        "psirtColdId": 1957,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-zbfw-94ckG4G",
+        "cveId": "CVE-2020-3421,CVE-2020-3480",
+        "psirtColdId": 1958,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-mdns-dos-3tH6cA9J",
+        "cveId": "CVE-2020-3359",
+        "psirtColdId": 1959,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-splitdns-SPWqpdGW",
+        "cveId": "CVE-2020-3408",
+        "psirtColdId": 1961,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-umbrella-dos-t2QMUX37",
+        "cveId": "CVE-2020-3510",
+        "psirtColdId": 1967,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webui-auth-bypass-6j2BYUc7",
+        "cveId": "CVE-2020-3400",
+        "psirtColdId": 1975,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-profinet-J9QMCHPB",
+        "cveId": "CVE-2020-3409",
+        "psirtColdId": 1971,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-dhcp-dos-JSCKX43h",
+        "cveId": "CVE-2020-3509",
+        "psirtColdId": 1972,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-wlc-fnfv9-EvrAQpNX",
+        "cveId": "CVE-2020-3492",
+        "psirtColdId": 1981,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ap-ethport-dos-xtjTt8pY",
+        "cveId": "CVE-2020-3552",
+        "psirtColdId": 1986,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-aironet-dos-VHr2zG9y",
+        "cveId": "CVE-2020-3560",
+        "psirtColdId": 1987,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-JP-DOS-g5FfGm8y",
+        "cveId": "CVE-2020-3527",
+        "psirtColdId": 1927,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-rommon-secboot-7JgVLVYC",
+        "cveId": "CVE-2020-3524",
+        "psirtColdId": 1930,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-auth-bypass-uJWqLTZM",
+        "cveId": "CVE-2020-3467",
+        "psirtColdId": 1992,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-tcp-dos-GDcZDqAf",
+        "cveId": "CVE-2020-3563",
+        "psirtColdId": 2008,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-fileup-dos-zvC7wtys",
+        "cveId": "CVE-2020-3436",
+        "psirtColdId": 2063,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-inline-dos-nXqUyEqM",
+        "cveId": "CVE-2020-3577",
+        "psirtColdId": 2005,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftdfmc-sft-mitm-tc8AzFs2",
+        "cveId": "CVE-2020-3549",
+        "psirtColdId": 2012,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-icmp-dos-hxxcycM",
+        "cveId": "CVE-2020-3571",
+        "psirtColdId": 2004,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-frag-memleak-mCtqdP9n",
+        "cveId": "CVE-2020-3373",
+        "psirtColdId": 2059,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fxos-sbbyp-KqP6NgrE",
+        "cveId": "CVE-2020-3458",
+        "psirtColdId": 2065,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-tcp-dos-N3DMnU4T",
+        "cveId": "CVE-2020-3572",
+        "psirtColdId": 2053,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-ssl-dcrpt-dos-RYEkX4yy",
+        "cveId": "CVE-2020-3562",
+        "psirtColdId": 1993,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-snmp-dos-R8ENPbOs",
+        "cveId": "CVE-2020-3533",
+        "psirtColdId": 2006,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-sslvpndma-dos-HRrqB9Yx",
+        "cveId": "CVE-2020-3529",
+        "psirtColdId": 2058,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftdfmc-dirtrav-NW8XcuSB",
+        "cveId": "CVE-2020-3550",
+        "psirtColdId": 2010,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fxosfcm-csrf-uhO4e5BZ",
+        "cveId": "CVE-2020-3456",
+        "psirtColdId": 2064,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-ospflls-37Xy2q6r",
+        "cveId": "CVE-2020-3528",
+        "psirtColdId": 2061,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-container-esc-FmYqFBQV",
+        "cveId": "CVE-2020-3514",
+        "psirtColdId": 2003,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ssl-dos-7uZWwSEy",
+        "cveId": "CVE-2020-27124",
+        "psirtColdId": 2070,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-dos-QFcNEPfx",
+        "cveId": "CVE-2020-3554",
+        "psirtColdId": 2062,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-webdos-fBzM5Ynw",
+        "cveId": "CVE-2020-3304",
+        "psirtColdId": 2060,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-xr-cp-dos-ej8VB9QY",
+        "cveId": "CVE-2020-26070",
+        "psirtColdId": 2069,
+        "sir": "High"
+    },
+    {
+        "bulletinUrl": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-pxe-unsign-code-exec-qAa78fD2",
+        "cveId": "CVE-2020-3284",
+        "psirtColdId": 2057,
+        "sir": "High"
+    }
+]
