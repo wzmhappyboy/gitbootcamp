@@ -392,6 +392,58 @@ rread_SA_txt_file = function() {
 
 
   exports.getData=function (req, res, next) {
+    let get_settings_info = function (callback) {
+        const args = {
+            url: `http://10.124.44.166:9100/api/v1.0/settings/custom-form/SP_Datasource`,
+            json:true
+        };
+        request.get(args, function (error, response, data) {
+            if (!error ) {
+                console.log('data:'+data)
+                callback(null, data);
+            } else {
+                console.log('error:'+error)
+                callback(error, null);
+            }
+        })
+    }
+    let get_setting_url = function (data, callback) {
+        if (data === null) {
+            data = "No Data";
+            callback(null,data)
+        }
+        else {
+       //     data = JSON.parse(data);
+            var data=data.data;
+            var cveInfo=data['cvelist_details'];
+            var devicesInfo=data['cvelist_details'];
+            console.log('cveInof:'+cveInfo)
+            console.log('devicesInfo:'+devicesInfo)
+            var info;
+           // info.push(cveInfo,devicesInfo);
+            info={
+                cveInfo:cveInfo,
+                devicesInfo:devicesInfo
+            }
+            console.log('info:'+info)
+            callback(null,info)
+        }
+
+    }
+    let importInfo=function (data,callback) {
+        var cveInfo=data['cveInfo'];
+        var devicesInfo=data['devicesInfo']
+
+
+        var userName=cveInfo['username'];
+        var password=cveInfo['password']
+
+        var cveDatasource=cveInfo['datasource'];
+        var cveUrl=cveInfo['url'];
+        var devicesUrl=cveInfo['url'];
+        var devicesDatasource=devicesInfo['datasource'];
+        if(cveDatasource==='File')
+{
     var deviceTable=[];
     var t=0;
     var urlList=rread_SA_txt_file();
@@ -450,11 +502,11 @@ rread_SA_txt_file = function() {
                     if (t===urlList.length-1) {
                         cve_list.insertMany(deviceTable,function (err,response) {
                             if(err){
-                                res.json({success: false,erro:err}).end('');
+                                callback(err,null)
 
                             }
                             else{
-                                res.status(200).json({success:true}).end('')
+                                callback(null,deviceTable)
                             }
 
                         })
@@ -468,11 +520,11 @@ rread_SA_txt_file = function() {
                     if (t===urlList.length-1) {
                         cve_list.insertMany(deviceTable,function (err,response) {
                             if(err){
-                                res.json({success: false,erro:err}).end('');
+                                callback(err,null)
 
                             }
                             else{
-                                res.status(200).json({success:true}).end('')
+                                callback(null,deviceTable)
                             }
 
                         })
@@ -491,6 +543,78 @@ rread_SA_txt_file = function() {
             return false;
         }
     }
+}
+else{
+    const args = {
+        url:cveUrl ,
+        auth: {
+            'user':userName,
+            'pass':password
+        },
+    };
+    request.get(args, function (error, response, data) {
+        var cveTable={};
+        var infoList=new Array();
+        if (!error ) {
+            data=JSON.parse(data)
+            var cveList=data.data
+            //console.log('length:'+data.data.length)
+            for (var cve of cveList)
+            {
+                var cveId=cve['cveId']
+                var cveIds=new Array();
+                if (cveId!==null) {
+                    cveIds = cveId.split(",");
+                    for (var id of cveIds) {
+                        if(cveTable.hasOwnProperty(id)===false)
+                        {
+                            cveTable[id]={
+                                "cveid":id,
+                                "security":cve['sir'],
+                                "owner": "Cisco",
+                                "current_status": "Not start",
+                                "target_resolution_date": "2020-12-15",
+                                "remediation_availability": "Yes",
+                                "device_list":[]
+                            }
+                                                infoList.push(cveTable[id])
+                        }
+
+                        //console.log('cveId:' + id)
+                    }
+                }
+                }
+                        console.log('cveTable:' + cveTable)
+
+            cve_list.insertMany(infoList,function (err,response) {
+                if(err){
+                    callback(error,null);
+
+                }
+                else{
+        console.log(response);
+                    callback(null, data)
+                }
+
+            })
+
+
+        } else {
+
+            console.log(error);
+
+            callback(error,null);
+        }
+    });
+}
+}
+async.waterfall([get_settings_info,get_setting_url,importInfo],function (err,data) {
+    if (err) {
+        res.json({success: false, result: err}).end('');
+    } else {
+        res.status(200).json({success: true}).end('');
+    }
+})
 }
 
 exports.getCve3517=function (req, res, next) {
